@@ -1,0 +1,988 @@
+Year,Brand,Model,Varient,KM_Driven,Fuel,Transmission,EMI/Month,Listed_price_Lakh,Final_price,Location
+2020,maruti,Swift VXI,VXI,23582,Petrol,Manual,9691,5.67,5.49,"Whitefield Main Road, Bhoruka Tech Park, Bengaluru"
+2017,hyundai,Baleno ZETA,ZETA,261040,Petrol,Manual,9291,5.36,4.75,"GT World Mall, Bengaluru"
+2015,tata,Swift LXI,LXI,113654,Petrol,Manual,8558,3.79,3.25,"Bellahalli, Bengaluru"
+2023,audi,Baleno ALPHA,T,250479,Petrol,Manual,12886,7.5,7.3,"Whitefield Main Road, Bhoruka Tech Park, Bengaluru"
+2013,Jeep,Alto K,VXI,98293,Petrol,Manual,8097,2.28,1.72,"Bellahalli, Bengaluru"
+2016,BMW,Alto K,VXI,63411,Petrol,Manual,6431,6.776975741865548,2.89,"Bellahalli, Bengaluru"
+2017,kia,Not Defined,LXI,38572,Petrol,Manual,5282,2.81,2.7,"Bellahalli, Bengaluru"
+2015,mg,Alto K,VXI,57802,Petrol,Manual,5925,2.35,2.25,"Bellahalli, Bengaluru"
+2015,Toyota,Ertiga VXI,VXI,79810,Petrol,Manual,11587,6.776975741865548,4.4,"Whitefield Main Road, Bhoruka Tech Park, Bengaluru"
+2025,skoda,Alto K,VXI,28810,Petrol,Manual,7396,4.4,4.19,"Hosur Road, Chikku Lakshmaiah Layout, Koramangala, Bangalore"
+2024,Maruti,Swift VXi,not defined,15662,Petrol,Manual,11677,6.99,6.62,"Bellahalli, Bengaluru"
+2014,Maruti,Wagon R,VXI,132169,Petrol,Manual,7618,2.84,2.29,"Whitefield Main Road, Bhoruka Tech Park, Bengaluru"
+2016,Maruti,Baleno DELTA,T,266700,Petrol,Auto,8847,4.46,3.98,"Bellahalli, Bengaluru"
+2024,Maruti,Swift ZXi,not defined,94539,Petrol,Manual,11511,7.23,6.52,Nexus Whitefield
+2017,Maruti,Ertiga ZXI,ZXI,88428,Petrol,Manual,12968,6.7,6.63,"Bellahalli, Bengaluru"
+2018,Maruti,Baleno ALPHA,T,242076,Petrol,Manual,9886,5.78,5.6,"Whitefield Main Road, Bhoruka Tech Park, Bengaluru"
+2020,Maruti,Celerio ZXI,ZXI,36521,Petrol,Manual,7855,4.67,4.45,"Bellahalli, Bengaluru"
+2022,Maruti,Celerio VXI,VXI,12561,Petrol,Manual,7502,4.90144,4.25,"Whitefield Main Road, Bhoruka Tech Park, Bengaluru"
+2023,Maruti,Swift ZXI,ZXI,36188,Petrol,Manual,12357,4.90144,7.0,"Vaishnavi Sapphire Centre, Yeswanthpur"
+2016,Maruti,Alto K,VXI,43407,Petrol,Manual,4872,2.8,2.19,Gandhi Nagar
+2018,Maruti,Elite i,T,255426,Petrol,Manual,7961,4.90144,4.51,"GT World Mall, Bengaluru"
+2017,Maruti,Grand i,T,71301,Petrol,Manual,7722,4.08,3.95,Gandhi Nagar
+2019,Maruti,Grand i,T,68190,Petrol,Manual,6424,4.26,3.64,"Bellahalli, Bengaluru"
+2018,Maruti,Elite i,T,271021,Petrol,Manual,9709,4.90144,5.5,"Whitefield Main Road, Bhoruka Tech Park, Bengaluru"
+2019,Maruti,Grand i,T,51489,Petrol,Manual,8562,5.0,4.85,"Whitefield Main Road, Bhoruka Tech Park, Bengaluru"
+2018,Maruti,Creta SX,SX,79834,Petrol,Manual,13011,7.99,7.37,"Whitefield Main Road, Bhoruka Tech Park, Bengaluru"
+2016,Maruti,Creta S,T,77878,Petrol,Manual,13124,6.1,5.9,"GT World Mall, Bengaluru"
+2020,Maruti,Grand i,T,50361,Petrol,Manual,7414,4.69,4.2,"GT World Mall, Bengaluru"
+2019,Maruti,NEW SANTRO,T,53761,Petrol,Manual,5862,4.90144,3.32,"Vaishnavi Sapphire Centre, Yeswanthpur"
+2018,Maruti,Elite i,T,17211,Petrol,Manual,9137,5.9,5.18,"Bellahalli, Bengaluru"
+2022,Hyundai,GRAND I,T,27380,Petrol,Manual,9592,5.67,5.43,"Whitefield Main Road, Bhoruka Tech Park, Bengaluru"
+2015,Hyundai,Grand i,T,70883,Petrol,Auto,7990,3.98,3.03,"Bellahalli, Bengaluru"
+2019,Hyundai,Elite i,T,273553,Petrol,Manual,8641,5.32,4.89,"Bellahalli, Bengaluru"
+2016,Hyundai,HECTOR SHARP,SX,90522,Diesel,Manual,10065,4.81,3.82,"Hosur Road, Chikku Lakshmaiah Layout, Koramangala, Bangalore"
+2017,Hyundai,Creta SX,SX,70477,Petrol,Auto,14663,6.9700273224043725,7.5,"Bellahalli, Bengaluru"
+2023,Hyundai,NEW I,T,15037,Petrol,Manual,13593,7.8,7.7,"Bellahalli, Bengaluru"
+2015,Hyundai,HECTOR SHARP,T,161436,Petrol,Manual,6165,2.96,2.34,"Vaishnavi Sapphire Centre, Yeswanthpur"
+2015,Hyundai,Elite i,T,262878,Petrol,Manual,11402,6.9700273224043725,4.33,"Hosur Road, Chikku Lakshmaiah Layout, Koramangala, Bangalore"
+2022,Hyundai,VENUE SX,SX,49961,Petrol,Manual,13698,6.9700273224043725,8.0,"Whitefield Main Road, Bhoruka Tech Park, Bengaluru"
+2018,Hyundai,Creta SX,SX,98909,Diesel,Manual,17647,9.81,9.27,"Hosur Road, Chikku Lakshmaiah Layout, Koramangala, Bangalore"
+2017,Hyundai,NEXON XZ,T,58960,Petrol,Manual,10923,5.7,5.59,Gandhi Nagar
+2019,Hyundai,NEXON XMA,T,54604,Petrol,Auto,10239,6.0,5.8,Gandhi Nagar
+2018,Hyundai,Tiago XZ,T,64081,Petrol,Manual,6613,3.9,3.75,"Whitefield Main Road, Bhoruka Tech Park, Bengaluru"
+2020,Hyundai,NEXON XZ,T,39721,Petrol,Manual,11835,7.12,6.7,"Hosur Road, Chikku Lakshmaiah Layout, Koramangala, Bangalore"
+2025,Hyundai,Tiago XZ,T,7401,Petrol,Manual,10845,6.9700273224043725,6.14,"GT World Mall, Bengaluru"
+2022,Hyundai,NEXON XM,T,34404,Petrol,Manual,11819,6.9,6.7,"Vaishnavi Sapphire Centre, Yeswanthpur"
+2022,Hyundai,NEXON XZ,T,75928,Petrol,Manual,12429,7.26,7.04,"Vaishnavi Sapphire Centre, Yeswanthpur"
+2021,Hyundai,Tiago XZA,T,63274,Petrol,Auto,8066,5.43,4.57,"Whitefield Main Road, Bhoruka Tech Park, Bengaluru"
+2021,Hyundai,NEXON XZA,T,68539,Diesel,Auto,13587,8.73,7.7,"Bellahalli, Bengaluru"
+2019,Hyundai,Tiago XT,T,82100,Petrol,Manual,5310,3.62,3.01,Nexus Whitefield
+2019,Tata,NEXON XZ,T,66593,Diesel,Manual,12357,7.7038383838383835,7.0,Nexus Whitefield
+2022,Tata,PUNCH CREATIVE,T,104764,Petrol,Manual,12346,6.32,5.55,"Bellahalli, Bengaluru"
+2022,Tata,NEXON XZ,T,29637,Petrol,Manual,12955,8.2,7.34,Gandhi Nagar
+2022,Tata,Safari XZA,T,127794,Diesel,Auto,28898,15.59,13.29,Nexus Whitefield
+2020,Tata,Tiago XZ,T,53908,Petrol,Manual,8127,4.63,4.6,Gandhi Nagar
+2017,Tata,Tiago XT,T,81670,Petrol,Manual,6669,3.62,3.41,"Whitefield Main Road, Bhoruka Tech Park, Bengaluru"
+2025,Tata,Tiago XZ,T,6912,CNG,Manual,11739,8.52,6.65,"Bellahalli, Bengaluru"
+2021,Tata,NEXON XZ,T,23981,Petrol,Manual,11066,6.7,6.27,"Bellahalli, Bengaluru"
+2020,Tata,NEXON XZA,T,73067,Petrol,Auto,11994,7.7038383838383835,6.79,Nexus Whitefield
+2014,Tata,Nano TWIST,T,70953,Petrol,Manual,3359,1.36,1.01,"Bellahalli, Bengaluru"
+2020,Tata,NEXON XZ,T,162804,Diesel,Auto,27772,7.7038383838383835,5.06,User Not Defined
+2020,Tata,NEXON XZ,T,72976,Diesel,Auto,42273,7.7038383838383835,9.07,User Not Defined
+2020,Tata,NEXON XZ,T,93972,Petrol,Auto,27772,7.7038383838383835,8.24,User Not Defined
+2020,Tata,NEXON XZ,T,103714,Diesel,Auto,27772,7.7038383838383835,8.3,User Not Defined
+2022,Tata,NEXON XZ,T,41476,Petrol,Manual,13946,7.7038383838383835,7.9,"Vaishnavi Sapphire Centre, Yeswanthpur"
+2023,Tata,NEXON XZ,T,28072,Petrol,Manual,17465,7.7038383838383835,10.2,Nexus Whitefield
+2024,Tata,NEXON XZ,T,72776,Petrol,Auto,24784,7.7038383838383835,14.47,"Bellahalli, Bengaluru"
+2020,Tata,NEXON XZ,T,31426,Petrol,Manual,12337,7.28,6.99,"Whitefield Main Road, Bhoruka Tech Park, Bengaluru"
+2023,Tata,NEXON XZ,T,64195,Petrol,Manual,11457,8.09,6.49,"GT World Mall, Bengaluru"
+2022,Tata,NEXON XZ,T,232170,Petrol,Manual,11262,6.67,6.38,"Whitefield Main Road, Bhoruka Tech Park, Bengaluru"
+2021,Hyundai,HECTOR SHARP,T,226187,Petrol,Manual,12533,6.9700273224043725,7.1,Nexus Whitefield
+2020,Hyundai,HECTOR SHARP,T,95224,Petrol,Manual,11535,6.9700273224043725,6.53,Nexus Whitefield
+2020,Hyundai,HECTOR SHARP,T,546976,Diesel,Manual,13574,9.12,7.69,"Bellahalli, Bengaluru"
+2021,Hyundai,HECTOR SHARP,T,570806,Diesel,Manual,13702,8.0,7.76,"Whitefield Main Road, Bhoruka Tech Park, Bengaluru"
+2022,Hyundai,HECTOR SHARP,T,5145603,Diesel,Manual,17061,9.12,7.67,Gandhi Nagar
+2022,Hyundai,HECTOR SHARP,T,27255,Diesel,Auto,17037,10.1,9.95,"Whitefield Main Road, Bhoruka Tech Park, Bengaluru"
+2022,Hyundai,HECTOR SHARP,T,36702,Diesel,Auto,20376,6.9700273224043725,11.9,Nexus Whitefield
+2022,Hyundai,HECTOR SHARP,T,34296,Petrol,Auto,14893,9.05,8.7,"Bellahalli, Bengaluru"
+2023,Hyundai,HECTOR SHARP,T,31836,Diesel,Manual,21238,13.05,12.4,"Bellahalli, Bengaluru"
+2020,Hyundai,HECTOR SHARP,T,66551,Petrol,Manual,13936,6.9700273224043725,7.89,"Hosur Road, Chikku Lakshmaiah Layout, Koramangala, Bangalore"
+2022,Hyundai,HECTOR SHARP,T,67614,Petrol,Manual,16116,10.0,9.41,"Vaishnavi Sapphire Centre, Yeswanthpur"
+2023,Hyundai,HECTOR SHARP,T,39378,Diesel,Manual,18560,6.9700273224043725,10.84,Gandhi Nagar
+2022,Hyundai,HECTOR SHARP,T,25312,Petrol,Manual,17379,6.9700273224043725,10.15,"Bellahalli, Bengaluru"
+2023,Hyundai,HECTOR SHARP,T,34640,Petrol,Manual,16819,10.0,9.82,"Bellahalli, Bengaluru"
+2021,Hyundai,HECTOR SHARP,T,93557,Diesel,Manual,16821,10.83,9.82,"Whitefield Main Road, Bhoruka Tech Park, Bengaluru"
+2019,Hyundai,HECTOR STYLE,T,66178,Diesel,Manual,13409,8.84,7.6,Nexus Whitefield
+2020,Hyundai,HECTOR SHARP,T,127421,Diesel,Manual,18327,9.59,8.43,"Whitefield Main Road, Bhoruka Tech Park, Bengaluru"
+2023,Hyundai,HECTOR PLUS,T,47089,Diesel,Manual,25339,17.11,14.8,"Bellahalli, Bengaluru"
+2020,Hyundai,HECTOR SHARP,T,41215,Petrol,Auto,19297,11.7,11.27,Nexus Whitefield
+2019,Hyundai,HECTOR SHARP,T,75931,Petrol,Manual,14897,6.9700273224043725,8.7,"Hosur Road, Chikku Lakshmaiah Layout, Koramangala, Bangalore"
+2019,Hyundai,HECTOR SHARP,T,51562,Petrol,Auto,17629,10.8,10.3,"Vaishnavi Sapphire Centre, Yeswanthpur"
+2019,Hyundai,HECTOR SHARP,T,55401,Petrol,Auto,17122,6.9700273224043725,10.0,Nexus Whitefield
+2022,Hyundai,HECTOR SHARP,T,25827,Petrol,Auto,23287,13.98,13.6,"Whitefield Main Road, Bhoruka Tech Park, Bengaluru"
+2019,Hyundai,HECTOR SHARP,T,119376,Petrol,Auto,18383,8.54,8.46,"Bellahalli, Bengaluru"
+2021,MG,HECTOR SHARP,T,62027,Petrol,Auto,18961,11.5,11.07,"Whitefield Main Road, Bhoruka Tech Park, Bengaluru"
+2021,MG,HECTOR SHARP,T,84689,Diesel,Manual,18492,7.270084745762712,10.8,"Bellahalli, Bengaluru"
+2021,MG,HECTOR SHARP,T,69796,Petrol,Auto,18478,7.270084745762712,10.79,Nexus Whitefield
+2022,MG,ASTOR SHARP,T,44558,Petrol,Auto,14897,8.93,8.7,"Bellahalli, Bengaluru"
+2023,MG,HECTOR SAVVY,T,48558,Petrol,Auto,25136,14.91,14.68,"Vaishnavi Sapphire Centre, Yeswanthpur"
+2020,MG,HECTOR SHARP,T,126613,Petrol,Manual,21518,11.03,9.9,"GT World Mall, Bengaluru"
+2022,MG,HECTOR PLUS,T,47825,CNG,Auto,20682,7.270084745762712,12.08,Nexus Whitefield
+2023,MG,ASTOR SMART,T,24497,Petrol,Manual,15890,9.65,9.28,"Vaishnavi Sapphire Centre, Yeswanthpur"
+2022,MG,ASTOR SMART,T,44855,Petrol,Manual,13741,10.61,8.03,"Bellahalli, Bengaluru"
+2023,MG,ASTOR SHARP,T,14431,Petrol,Auto,20033,12.0,11.7,"Whitefield Main Road, Bhoruka Tech Park, Bengaluru"
+2013,MG,HECTOR SHARP,T,105095,Diesel,Auto,52705,6.56,5.93,"Bellahalli, Bengaluru"
+2015,MG,HECTOR SHARP,T,147263,Petrol,Manual,17475,8.48,6.64,"GT World Mall, Bengaluru"
+2014,MG,HECTOR SHARP,T,121274,Diesel,Auto,25944,6.57,5.51,"Whitefield Main Road, Bhoruka Tech Park, Bengaluru"
+2018,MG,HECTOR SHARP,T,99240,Petrol,Auto,17290,12.25,10.1,"GT World Mall, Bengaluru"
+2017,MG,HECTOR SHARP,T,122234,Petrol,Auto,10916,7.270084745762712,4.91,"Whitefield Main Road, Bhoruka Tech Park, Bengaluru"
+2015,MG,HECTOR SHARP,T,75509,Diesel,Manual,10808,3.98,3.25,"Whitefield Main Road, Bhoruka Tech Park, Bengaluru"
+2023,MG,HECTOR SHARP,T,77057,Petrol,Auto,18205,1.5,10.63,"Bellahalli, Bengaluru"
+2022,MG,HECTOR SHARP,T,46101,Petrol,Auto,18133,1.0,10.59,"Whitefield Main Road, Bhoruka Tech Park, Bengaluru"
+2022,MG,HECTOR SHARP,T,13985,Petrol,Auto,21403,1.5,12.5,"Bellahalli, Bengaluru"
+2014,MG,HECTOR SHARP,T,117710,Petrol,Auto,24054,7.54,7.24,Nexus Whitefield
+2012,Hyundai,HECTOR SHARP,T,75502,Petrol,Auto,45988,6.95,5.18,"Bellahalli, Bengaluru"
+2016,Hyundai,HECTOR SHARP,T,119809,Petrol,Auto,18138,9.23,8.34,"Whitefield Main Road, Bhoruka Tech Park, Bengaluru"
+2025,Hyundai,HECTOR SHARP,T,2203,Petrol,Auto,19111,6.9700273224043725,11.16,"Vaishnavi Sapphire Centre, Yeswanthpur"
+2020,Hyundai,HECTOR SHARP,T,24000,Petrol,Manual,22841,1.5,13.34,User Not Defined
+2020,Hyundai,HECTOR SHARP,T,122755,Petrol,Auto,28265,13.5,13.0,User Not Defined
+2020,Hyundai,HECTOR SHARP,T,113117,Diesel,Manual,17859,6.9700273224043725,2.02,User Not Defined
+2020,Hyundai,HECTOR SHARP,T,120643,Diesel,Manual,17859,6.9700273224043725,2.3,User Not Defined
+2020,Hyundai,HECTOR SHARP,T,94642,Diesel,Manual,13319,6.9700273224043725,4.01,User Not Defined
+2020,Hyundai,HECTOR SHARP,T,98127,Diesel,Manual,21324,6.9700273224043725,2.4,User Not Defined
+2020,Hyundai,HECTOR SHARP,T,125126,Diesel,Manual,11658,6.9700273224043725,3.51,User Not Defined
+2013,Hyundai,Swift ZXI,ZXI,93503,Petrol,Manual,14357,3.47,3.05,"Kompally, Hyderabad"
+2022,Hyundai,Swift VXI,VXI,58318,Petrol,Manual,9689,6.9700273224043725,5.49,"Uppal, Hyderabad"
+2015,Hyundai,Swift Dzire,VXI,52374,Petrol,Manual,8711,3.36,3.31,"Upperpally, Attapur, Hyderabad"
+2017,Hyundai,HECTOR SHARP,VXI,46197,Petrol,Manual,4497,2.48,2.3,"Kompally, Hyderabad"
+2017,Hyundai,Alto K,VXI,58191,Petrol,Manual,4767,2.69,2.44,"Bachupally, Hyderabad"
+2016,Hyundai,Swift Dzire,T,111183,Diesel,Manual,9446,4.63,3.59,"Kompally, Hyderabad"
+2014,Hyundai,Swift Dzire,T,150064,Diesel,Manual,14075,3.2,2.99,"Kompally, Hyderabad"
+2016,Hyundai,Swift VXI,VXI,45063,Petrol,Manual,8876,4.1,3.99,"Kompally, Hyderabad"
+2013,Hyundai,Swift VDI,not defined,79868,Diesel,Manual,27454,3.2,3.09,"Kompally, Hyderabad"
+2014,Hyundai,Swift Dzire,T,114124,Diesel,Manual,16824,3.9,3.57,"GVK One Mall, Banjara Hills, Hyderabad, Telangana "
+2022,Maruti,Vitara Brezza,VXI,54374,Petrol,Manual,10427,7.35,5.91,"Bachupally, Hyderabad"
+2023,Maruti,Baleno ALPHA,T,257516,Petrol,Manual,12092,7.22,6.85,"GVK One Mall, Banjara Hills, Hyderabad, Telangana "
+2021,Maruti,Baleno ALPHA,T,210668,Petrol,Manual,11298,4.90144,6.4,"GVK One Mall, Banjara Hills, Hyderabad, Telangana "
+2013,Maruti,Swift VDI,T,88028,Diesel,Manual,24913,3.12,2.8,"Bachupally, Hyderabad"
+2023,Maruti,Swift ZXI,ZXI,62871,Petrol,Manual,10470,6.11,5.93,"Upperpally, Attapur, Hyderabad"
+2021,Maruti,Baleno ZETA,ZETA,249422,Petrol,Manual,10512,6.2,5.96,"Upperpally, Attapur, Hyderabad"
+2022,Maruti,Baleno DELTA,T,227118,Petrol,Manual,10683,4.90144,6.05,"Bachupally, Hyderabad"
+2016,Maruti,Celerio VXI,VXI,63550,Petrol,Auto,6649,3.05,2.99,"Upperpally, Attapur, Hyderabad"
+2021,Maruti,Swift VXI,VXI,74982,Petrol,Manual,8085,4.69,4.58,"Uppal, Hyderabad"
+2016,Maruti,Alto K,VXI,75713,Petrol,Manual,4338,2.05,1.95,"Upperpally, Attapur, Hyderabad"
+2017,Maruti,Eon ERA,T,51537,Petrol,Manual,4256,4.90144,2.18,"Kompally, Hyderabad"
+2018,Maruti,Creta SX,SX,83407,Petrol,Manual,12652,7.42,7.17,"Kompally, Hyderabad"
+2019,Maruti,Creta SX,SX,85640,Petrol,Manual,11533,8.36,6.53,"Uppal, Hyderabad"
+2018,Maruti,Grand i,T,59610,Petrol,Manual,12445,7.2,7.05,"Kompally, Hyderabad"
+2015,Maruti,Grand i,T,71781,Petrol,Manual,8095,3.39,3.07,"GVK One Mall, Banjara Hills, Hyderabad, Telangana "
+2018,Maruti,Creta SX,SX,125088,Petrol,Auto,14252,7.08,6.41,"GVK One Mall, Banjara Hills, Hyderabad, Telangana "
+2022,Maruti,Creta EX,T,54617,Petrol,Manual,14234,9.1,8.31,"Upperpally, Attapur, Hyderabad"
+2020,Maruti,Creta SX,SX,95545,Diesel,Manual,16816,13.25,9.82,"Bachupally, Hyderabad"
+2015,Maruti,Grand i,T,74875,Petrol,Manual,7637,3.23,2.9,"Uppal, Hyderabad"
+2015,Maruti,Grand i,T,71125,Petrol,Manual,7768,3.0,2.95,"Kompally, Hyderabad"
+2014,Hyundai,Grand i,T,77670,Petrol,Manual,8928,2.85,2.69,"Kompally, Hyderabad"
+2018,Hyundai,NEW SANTRO,T,90844,Petrol,Manual,4703,3.2,2.66,"Bachupally, Hyderabad"
+2019,Hyundai,HECTOR SHARP,T,65467,Petrol,Manual,13240,7.7,7.5,"Bachupally, Hyderabad"
+2020,Hyundai,Grand i,T,50458,Petrol,Manual,7730,4.7,4.38,"GVK One Mall, Banjara Hills, Hyderabad, Telangana "
+2017,Hyundai,Grand i,T,112589,Petrol,Manual,6140,3.36,2.76,"Bachupally, Hyderabad"
+2015,Hyundai,Grand i,T,60490,Petrol,Manual,7629,3.63,2.9,"Uppal, Hyderabad"
+2018,Hyundai,HECTOR SHARP,T,83392,Petrol,Manual,10945,6.35,6.2,"GVK One Mall, Banjara Hills, Hyderabad, Telangana "
+2016,Hyundai,Grand i,T,71633,Petrol,Auto,7118,3.54,3.2,"Upperpally, Attapur, Hyderabad"
+2019,Hyundai,Grand i,T,79487,Petrol,Auto,7012,4.7,3.97,"Upperpally, Attapur, Hyderabad"
+2020,Hyundai,Elite i,T,72210,Petrol,Manual,9268,5.32,5.25,"Kompally, Hyderabad"
+2021,Hyundai,NEXON XMA,T,63925,Petrol,Auto,10027,5.91,5.68,"Kompally, Hyderabad"
+2018,Hyundai,Tiago XM,T,59841,Petrol,Manual,5865,3.64,3.32,"Kompally, Hyderabad"
+2023,Hyundai,NEXON XM,T,38495,Petrol,Manual,12516,7.37,7.09,"Bachupally, Hyderabad"
+2019,Hyundai,NEXON XZ,T,68834,Petrol,Manual,9852,5.81,5.58,"Kompally, Hyderabad"
+2021,Hyundai,NEXON XZ,T,79820,Petrol,Manual,11633,7.0,6.59,"Kompally, Hyderabad"
+2022,Hyundai,NEXON XZ,T,47567,Petrol,Manual,12879,8.27,7.3,"Upperpally, Attapur, Hyderabad"
+2017,Hyundai,NEXON XZ,T,88739,Petrol,Manual,9884,5.21,5.06,"Uppal, Hyderabad"
+2019,Hyundai,NEXON XZA,T,57814,Petrol,Auto,9983,6.15,5.66,"Bachupally, Hyderabad"
+2017,Hyundai,NEXON XZ,T,82183,Diesel,Manual,11309,5.4,5.08,"Bachupally, Hyderabad"
+2019,Hyundai,Tiago XZ,T,129901,Petrol,Manual,7452,6.9700273224043725,3.35,"Bachupally, Hyderabad"
+2020,Tata,NEXON XM,T,148985,Petrol,Manual,9696,5.42,4.36,"Upperpally, Attapur, Hyderabad"
+2023,Tata,Harrier XM,T,35952,Diesel,Manual,19059,2.0,11.13,"Bachupally, Hyderabad"
+2023,Tata,NEXON XZ,T,46390,Petrol,Manual,14686,8.98,8.58,"GVK One Mall, Banjara Hills, Hyderabad, Telangana "
+2022,Tata,Harrier XZ,T,133769,Diesel,Manual,23536,2.0,10.82,"Bachupally, Hyderabad"
+2023,Tata,NEXON XZ,T,40370,Petrol,Manual,16728,10.37,9.77,"Kompally, Hyderabad"
+2018,Tata,TIGOR XE,T,50351,Petrol,Manual,5702,7.7038383838383835,3.23,"Kompally, Hyderabad"
+2022,Tata,NEXON XZ,T,16057,Petrol,Manual,13946,8.73,8.14,"Uppal, Hyderabad"
+2016,Tata,Zest XMS,T,82162,Petrol,Manual,6689,3.25,3.01,"GVK One Mall, Banjara Hills, Hyderabad, Telangana "
+2018,Tata,Tiago XZA,T,67280,Petrol,Auto,6178,3.9,3.5,"Kompally, Hyderabad"
+2023,Tata,NEXON FEARLESS,T,29236,Petrol,Auto,17780,11.56,10.38,"GVK One Mall, Banjara Hills, Hyderabad, Telangana "
+2020,Tata,NEXON XZ,T,74947,Diesel,Auto,27772,12.0,11.5,User Not Defined
+2020,Tata,NEXON XZ,T,101572,Diesel,Auto,36217,7.7038383838383835,7.69,User Not Defined
+2020,Tata,NEXON XZ,T,101453,Diesel,Auto,27772,6.0,5.8,User Not Defined
+2020,Tata,NEXON XZ,T,800000,Diesel,Auto,27772,7.7038383838383835,12.0,User Not Defined
+2020,Tata,NEXON XZ,T,72411,Diesel,Auto,41880,7.7038383838383835,8.99,User Not Defined
+2020,Tata,NEXON XZ,T,77634,Diesel,Auto,27772,7.7038383838383835,9.1,User Not Defined
+2020,Tata,NEXON XZ,T,126376,Diesel,Auto,44197,14.2,13.5,User Not Defined
+2020,Tata,NEXON XZ,T,55473,Diesel,Auto,40923,13.5,12.5,User Not Defined
+2020,Tata,NEXON XZ,T,120764,Diesel,Auto,42331,7.7038383838383835,12.93,User Not Defined
+2020,Tata,NEXON XZ,T,108960,Diesel,Auto,27772,11.5,10.0,User Not Defined
+2020,Hyundai,HECTOR SHARP,T,157649,Diesel,Auto,17859,6.5,5.8,User Not Defined
+2020,Hyundai,HECTOR SHARP,T,137122,Diesel,Auto,17859,10.5,10.0,User Not Defined
+2020,Hyundai,HECTOR SHARP,T,146163,Diesel,Auto,17859,12.4,10.5,User Not Defined
+2020,Hyundai,HECTOR SHARP,T,100054,Diesel,Auto,45834,16.36,14.0,User Not Defined
+2020,Hyundai,HECTOR SHARP,T,113155,Diesel,Auto,17859,11.0,9.5,User Not Defined
+2020,Hyundai,HECTOR SHARP,T,117324,Diesel,Auto,75124,6.9700273224043725,8.5,User Not Defined
+2020,Hyundai,HECTOR SHARP,T,63977,Diesel,Auto,39850,6.9700273224043725,8.55,User Not Defined
+2020,Hyundai,HECTOR SHARP,T,62584,Petrol,Manual,13766,8.4,7.8,"Kompally, Hyderabad"
+2019,Hyundai,HECTOR SHARP,T,70038,Petrol,Manual,11665,8.66,6.61,"Upperpally, Attapur, Hyderabad"
+2020,Hyundai,HECTOR SHARP,T,93605,Petrol,Manual,11834,8.16,6.7,"Bachupally, Hyderabad"
+2021,Hyundai,HECTOR SHARP,T,107413,Diesel,Auto,17306,9.66,7.78,"Bachupally, Hyderabad"
+2023,Hyundai,HECTOR SHARP,T,29272,Petrol,Manual,16443,10.4,9.6,"Bachupally, Hyderabad"
+2022,Hyundai,HECTOR SHARP,T,52485,Petrol,Manual,18822,11.94,10.99,"Bachupally, Hyderabad"
+2023,Hyundai,HECTOR SHARP,T,43647,Diesel,Manual,18032,12.11,10.53,"Uppal, Hyderabad"
+2021,Hyundai,HECTOR SHARP,T,84804,Petrol,Manual,17848,10.62,10.42,"GVK One Mall, Banjara Hills, Hyderabad, Telangana "
+2022,Hyundai,HECTOR SHARP,T,142977,Diesel,Manual,18340,8.68,8.44,"Kompally, Hyderabad"
+2020,Hyundai,HECTOR SHARP,T,85234,Petrol,Auto,15991,10.12,9.34,"GVK One Mall, Banjara Hills, Hyderabad, Telangana "
+2019,Hyundai,HECTOR SHARP,T,83826,Petrol,Auto,14439,8.9,8.43,"GVK One Mall, Banjara Hills, Hyderabad, Telangana "
+2020,Hyundai,HECTOR SHARP,T,100846,Diesel,Auto,22025,6.9700273224043725,10.13,"Bachupally, Hyderabad"
+2023,Hyundai,HECTOR SHARP,T,221833,Petrol,Manual,13328,7.8,7.55,"Uppal, Hyderabad"
+2020,Hyundai,HECTOR SHARP,T,570428,Diesel,Manual,12332,7.2,6.99,"Kompally, Hyderabad"
+2022,Hyundai,HECTOR SHARP,T,5148756,Diesel,Manual,14428,7.43,6.49,"Bachupally, Hyderabad"
+2020,Hyundai,HECTOR SHARP,T,61046,Petrol,Manual,18407,11.0,10.75,User Not Defined
+2020,Hyundai,HECTOR SHARP,T,10357,Petrol,Auto,17294,6.9700273224043725,10.1,User Not Defined
+2020,Hyundai,HECTOR SHARP,T,65396,Diesel,Auto,18835,6.9700273224043725,11.0,User Not Defined
+2020,Hyundai,HECTOR SHARP,T,138237,Petrol,Auto,23917,11.5,11.0,User Not Defined
+2020,Hyundai,HECTOR SHARP,T,83893,Petrol,Manual,15410,6.9700273224043725,9.0,User Not Defined
+2020,Hyundai,HECTOR SMART,T,89183,Petrol,Manual,16959,10.51,9.9,"Bachupally, Hyderabad"
+2019,Hyundai,HECTOR SMART,T,42795,Diesel,Manual,15468,9.5,9.03,"Bachupally, Hyderabad"
+2020,Hyundai,HECTOR SHARP,T,139982,Petrol,Auto,18142,8.83,8.34,"GVK One Mall, Banjara Hills, Hyderabad, Telangana "
+2021,Hyundai,HECTOR PLUS,T,73916,Diesel,Manual,18818,12.49,10.99,"Kompally, Hyderabad"
+2022,Hyundai,ASTOR SUPER,T,39149,Petrol,Manual,13956,6.9700273224043725,8.15,"Uppal, Hyderabad"
+2020,Hyundai,HECTOR PLUS,T,56478,Petrol,Auto,17722,6.9700273224043725,10.35,"Kompally, Hyderabad"
+2023,Hyundai,ASTOR SHARP,T,23629,Petrol,Auto,18043,6.9700273224043725,10.54,"GVK One Mall, Banjara Hills, Hyderabad, Telangana "
+2020,Hyundai,ASTOR STYLE,T,47734,Petrol,Manual,14126,6.9700273224043725,8.25,User Not Defined
+2020,Hyundai,ASTOR STYLE,T,52719,Petrol,Manual,14246,6.9700273224043725,8.32,User Not Defined
+2020,Hyundai,HECTOR Savvy,T,3906,Petrol,Auto,35957,21.01,21.0,User Not Defined
+2020,MG,HECTOR SHARP,T,55452,Petrol,Auto,16266,10.5,9.5,User Not Defined
+2020,MG,ASTOR SHARP,T,41450,Petrol,Manual,17979,11.0,10.5,User Not Defined
+2020,MG,Windsor EV,T,46409,Electric,Auto,23971,7.270084745762712,14.0,User Not Defined
+2020,MG,ASTOR Select,T,19989,Petrol,Auto,19691,12.0,11.5,User Not Defined
+2020,MG,HECTOR SAVVY,T,12081,Petrol,Auto,35101,22.9,20.5,User Not Defined
+2020,MG,HECTOR SHARP,T,144930,Diesel,Manual,19568,10.0,9.0,User Not Defined
+2020,MG,COMET PACE,T,82839,Electric,Auto,11474,7.0,6.5,User Not Defined
+2020,MG,HECTOR PLUS,T,33000,Diesel,Manual,29108,18.3,17.0,User Not Defined
+2020,MG,ASTOR SAVVY,T,81791,Petrol,Auto,23646,7.270084745762712,13.81,User Not Defined
+2020,MG,HECTOR Shine,T,6085,Petrol,Manual,28937,7.270084745762712,16.9,User Not Defined
+2021,MG,HECTOR SHARP,T,45600,Petrol,Manual,11384,7.16,6.45,"Kompally, Hyderabad"
+2020,MG,HECTOR SHARP,T,58579,Petrol,Manual,8127,6.29,4.6,"Kompally, Hyderabad"
+2022,MG,HECTOR SHARP,T,66940,Petrol,Manual,15599,1.0,9.11,"Uppal, Hyderabad"
+2023,MG,HECTOR SHARP,T,26720,Petrol,Auto,17951,1.0,10.48,"Uppal, Hyderabad"
+2022,MG,HECTOR SHARP,T,63339,Petrol,Manual,15403,1.0,9.0,"GVK One Mall, Banjara Hills, Hyderabad, Telangana "
+2022,MG,HECTOR SHARP,T,53401,Petrol,Auto,15907,1.0,9.29,"GVK One Mall, Banjara Hills, Hyderabad, Telangana "
+2022,MG,HECTOR SHARP,T,66460,Petrol,Auto,18431,1.5,10.76,"Kompally, Hyderabad"
+2022,MG,HECTOR SHARP,T,88338,Petrol,Auto,15956,1.0,9.32,"Bachupally, Hyderabad"
+2019,MG,HECTOR SHARP,T,56211,Diesel,Auto,30026,20.51,17.54,"Bachupally, Hyderabad"
+2019,MG,HECTOR SHARP,T,79314,Diesel,Auto,26951,18.22,15.74,"Kompally, Hyderabad"
+2019,Hyundai,HECTOR SHARP,T,96601,Diesel,Auto,29440,6.9700273224043725,17.19,"Kompally, Hyderabad"
+2018,Hyundai,HECTOR SHARP,T,129281,Diesel,Auto,28791,19.65,13.24,"Kompally, Hyderabad"
+2022,Hyundai,HECTOR SHARP,T,97794,Petrol,Manual,14114,1.0,8.0,"Bachupally, Hyderabad"
+2020,Hyundai,HECTOR SHARP,T,105516,Petrol,Auto,23562,15.01,10.84,"Kompally, Hyderabad"
+2022,Hyundai,HECTOR SHARP,T,95350,Petrol,Manual,15325,1.5,8.95,"Kompally, Hyderabad"
+2022,Hyundai,HECTOR SHARP,T,112096,Petrol,Auto,18727,1.5,8.61,"Bachupally, Hyderabad"
+2019,Hyundai,HECTOR SHARP,T,71916,Petrol,Auto,19794,6.9700273224043725,11.56,"Uppal, Hyderabad"
+2017,Hyundai,HECTOR SHARP,T,65419,Petrol,Auto,23928,14.58,12.57,"Kompally, Hyderabad"
+2021,Hyundai,HECTOR SHARP,T,85139,Petrol,Auto,29194,18.47,17.05,"Kompally, Hyderabad"
+2020,Hyundai,HECTOR SHARP,T,26082,Petrol,Manual,23115,1.0,13.5,User Not Defined
+2023,Hyundai,Swift VXI,VXI,24184,Petrol,Auto,12018,6.92,6.81,User Not Defined
+2015,Hyundai,Wagon R,VXI,25852,Petrol,Manual,7720,3.46,2.93,User Not Defined
+2017,Hyundai,HECTOR SHARP,LXI,10953,Petrol,Manual,5630,3.03,2.88,User Not Defined
+2018,Hyundai,Celerio ZXI,ZXI,31733,Petrol,Auto,7555,4.52,4.28,User Not Defined
+2016,Hyundai,Wagon R,VXI,36250,Petrol,Auto,6891,3.99,3.1,User Not Defined
+2023,Hyundai,Swift ZXI,ZXI,50854,Petrol,Manual,11880,6.99,6.73,User Not Defined
+2016,Hyundai,HECTOR SHARP,VXI,30270,Petrol,Manual,5695,2.81,2.56,User Not Defined
+2017,Hyundai,Celerio ZXI,ZXI,46938,Petrol,Auto,7677,6.05,3.93,User Not Defined
+2020,Hyundai,Swift VXI,VXI,78449,Petrol,Manual,8761,5.43,4.96,User Not Defined
+2016,Hyundai,Swift ZXI,ZXI,88184,Petrol,Manual,9145,4.97,4.11,User Not Defined
+2017,Maruti,Swift VXI,VXI,68328,Petrol,Manual,8365,4.90144,4.28,User Not Defined
+2016,Maruti,Celerio ZXI,ZXI,99549,Petrol,Manual,6955,3.49,3.13,User Not Defined
+2018,Maruti,Celerio VXI,VXI,73516,Petrol,Auto,6932,4.05,3.93,User Not Defined
+2013,Maruti,Swift VXI,VXI,52760,Petrol,Manual,16607,3.74,3.53,User Not Defined
+2015,Maruti,Swift ZDI,T,31904,Diesel,Manual,15481,5.68,4.66,User Not Defined
+2013,Maruti,Swift VDI,T,90372,Diesel,Manual,31897,4.21,3.59,User Not Defined
+2017,Maruti,Grand i,LXI,81271,Petrol,Manual,5028,3.25,2.57,User Not Defined
+2016,Maruti,Celerio ZXI,ZXI,35307,Petrol,Auto,8497,4.14,3.82,User Not Defined
+2022,Maruti,Ciaz ZETA,ZETA,46714,Petrol,Manual,13351,7.9,7.56,User Not Defined
+2016,Maruti,Celerio ZXI,ZXI,57039,Petrol,Auto,8097,4.04,3.64,User Not Defined
+2017,Maruti,Creta E,T,42751,Petrol,Manual,13255,4.90144,6.78,User Not Defined
+2015,Maruti,Grand i,T,60412,Petrol,Manual,9740,4.90144,3.7,User Not Defined
+2019,Maruti,Grand i,T,47476,Petrol,Manual,15188,11.23,8.87,User Not Defined
+2018,Maruti,Eon ERA,T,50166,Petrol,Manual,5348,3.43,3.03,User Not Defined
+2015,Maruti,Grand i,T,42314,Petrol,Manual,8838,3.51,3.36,User Not Defined
+2019,Maruti,Grand i,T,50650,Petrol,Auto,7444,4.6,4.22,User Not Defined
+2017,Maruti,Creta E,T,60469,Petrol,Manual,12519,6.56,6.4,User Not Defined
+2014,Maruti,Grand i,T,121381,Diesel,Manual,13557,3.21,2.88,User Not Defined
+2015,Maruti,Eon ERA,T,51082,Petrol,Manual,6412,2.64,2.43,User Not Defined
+2018,Maruti,Creta E,T,77559,Petrol,Manual,11024,7.48,6.25,User Not Defined
+2019,Hyundai,Creta E,T,44025,Diesel,Manual,14468,8.69,8.45,User Not Defined
+2015,Hyundai,Creta SX,SX,94640,Diesel,Auto,23000,6.9700273224043725,6.92,User Not Defined
+2018,Hyundai,Elite i,T,52008,Petrol,Manual,8422,5.07,4.77,User Not Defined
+2022,Hyundai,GRAND I,T,11139,Petrol,Manual,10623,6.18,6.02,User Not Defined
+2019,Hyundai,Elite i,T,66379,Petrol,Auto,11329,6.9700273224043725,6.42,User Not Defined
+2014,Hyundai,HECTOR SHARP,T,157325,Petrol,Manual,10340,3.28,3.11,User Not Defined
+2015,Hyundai,HECTOR SHARP,T,177049,Petrol,Manual,6736,2.88,2.56,User Not Defined
+2012,Hyundai,HECTOR SHARP,T,37651,Petrol,Auto,26382,3.02,2.97,User Not Defined
+2022,Hyundai,GRAND I,T,21985,Petrol,Manual,10009,5.82,5.67,User Not Defined
+2022,Hyundai,NEW I,T,61108,Petrol,Auto,12442,7.45,7.05,User Not Defined
+2025,Hyundai,Tiago XZ,T,4649,Petrol,Manual,11142,6.62,6.31,User Not Defined
+2025,Hyundai,Tiago XZ,T,21511,Petrol,Manual,10630,6.2,6.02,User Not Defined
+2020,Hyundai,Tiago XZ,T,31598,Petrol,Manual,8475,6.9700273224043725,4.8,User Not Defined
+2021,Hyundai,Tiago XZA,T,16977,Petrol,Auto,9608,5.95,5.44,User Not Defined
+2019,Hyundai,NEXON XZ,T,50354,Petrol,Manual,10341,6.59,5.86,User Not Defined
+2023,Hyundai,Tiago XZA,T,35768,Petrol,Auto,10532,6.31,5.97,User Not Defined
+2023,Hyundai,PUNCH CREATIVE,T,31600,Petrol,Auto,13557,8.01,7.68,User Not Defined
+2022,Hyundai,NEXON XZ,T,19092,Petrol,Manual,13183,7.61,7.47,User Not Defined
+2022,Hyundai,Tiago XZA,T,45404,Petrol,Auto,9520,5.7,5.39,User Not Defined
+2021,Hyundai,NEXON XZ,T,35918,Petrol,Manual,12586,7.5,7.13,User Not Defined
+2023,Tata,NEXON XZ,T,38064,Petrol,Manual,14568,8.96,8.51,User Not Defined
+2018,Tata,NEXON XZA,T,91451,Petrol,Auto,9536,7.7038383838383835,5.4,User Not Defined
+2022,Tata,NEXON XZ,T,80466,Petrol,Manual,11806,9.11,6.69,User Not Defined
+2023,Tata,PUNCH PURE,T,10503,Petrol,Manual,10556,7.7038383838383835,5.98,User Not Defined
+2025,Tata,PUNCH Creative,T,7358,Petrol,Manual,13806,9.22,8.06,User Not Defined
+2021,Tata,PUNCH CREATIVE,T,83570,Petrol,Manual,9592,6.97,5.43,User Not Defined
+2022,Tata,ALTROZ XZA,T,28812,Petrol,Auto,11727,6.83,6.64,User Not Defined
+2016,Tata,Zest XMS,T,89877,Petrol,Manual,7714,7.7038383838383835,3.47,User Not Defined
+2023,Tata,TIGOR XZA,T,15085,Petrol,Auto,12212,7.7038383838383835,6.92,User Not Defined
+2022,Tata,ALTROZ XM,T,82937,Petrol,Manual,9128,5.85,5.17,User Not Defined
+2020,Tata,NEXON XZ,T,115235,Diesel,Auto,104290,7.7038383838383835,11.8,User Not Defined
+2020,Tata,NEXON XZ,T,87439,Petrol,Auto,52220,7.7038383838383835,11.2,User Not Defined
+2020,Tata,NEXON XZ,T,129831,Diesel,Auto,81564,7.7038383838383835,17.5,User Not Defined
+2024,Tata,NEXON XZ,T,16528,Petrol,Manual,19759,12.06,11.54,User Not Defined
+2019,Tata,NEXON XZ,T,133909,Diesel,Manual,17600,10.46,8.1,User Not Defined
+2021,Tata,NEXON XZ,T,50464,Petrol,Manual,15563,9.44,9.09,User Not Defined
+2021,Tata,NEXON XZ,T,42106,Petrol,Auto,21382,12.89,12.49,User Not Defined
+2023,Tata,NEXON XZ,T,43596,Petrol,Auto,26742,7.7038383838383835,15.62,User Not Defined
+2019,Tata,NEXON XZ,T,85015,Petrol,Manual,18431,7.7038383838383835,10.76,User Not Defined
+2024,Tata,NEXON XZ,T,61955,Petrol,Auto,28312,7.7038383838383835,16.53,User Not Defined
+2021,Hyundai,HECTOR SHARP,T,95441,Petrol,Manual,12479,7.48,7.07,User Not Defined
+2022,Hyundai,HECTOR SHARP,T,58795,Petrol,Auto,19751,13.05,11.53,User Not Defined
+2023,Hyundai,HECTOR SHARP,T,40934,Petrol,Auto,24483,16.14,14.3,User Not Defined
+2020,Hyundai,HECTOR SHARP,T,108662,Petrol,Auto,20070,9.68,9.23,User Not Defined
+2020,Hyundai,HECTOR SHARP,T,63738,Diesel,Auto,20290,12.05,11.85,User Not Defined
+2020,Hyundai,HECTOR SHARP,T,21874,Petrol,Auto,12777,6.9700273224043725,7.24,User Not Defined
+2024,Hyundai,HECTOR SHARP,T,4866,Petrol,Manual,15708,9.71,9.17,User Not Defined
+2021,Hyundai,HECTOR SHARP,T,97538,Diesel,Auto,17851,6.9700273224043725,10.43,User Not Defined
+2022,Hyundai,HECTOR SHARP,T,87852,Diesel,Auto,20355,13.49,11.89,User Not Defined
+2023,Hyundai,HECTOR SHARP,T,28748,Petrol,Auto,18225,10.85,10.64,User Not Defined
+2024,Hyundai,HECTOR SHARP,T,51050,Petrol,Auto,17362,11.52,10.14,User Not Defined
+2021,Hyundai,HECTOR SHARP,T,97981,Diesel,Auto,15692,9.34,9.16,User Not Defined
+2024,Hyundai,HECTOR SHARP,T,43553,Diesel,Auto,21896,13.08,12.79,User Not Defined
+2020,Hyundai,HECTOR SHARP,T,42080,Petrol,Auto,19556,6.9700273224043725,11.42,User Not Defined
+2019,Hyundai,HECTOR SHARP,T,50937,Petrol,Auto,18604,6.9700273224043725,10.87,User Not Defined
+2021,Hyundai,HECTOR SHARP,T,63194,Petrol,Auto,20129,12.59,11.76,User Not Defined
+2022,Hyundai,HECTOR SHARP,T,40968,Petrol,Auto,23816,6.9700273224043725,13.91,User Not Defined
+2020,Hyundai,HECTOR SHARP,T,95703,Petrol,Auto,17638,6.9700273224043725,10.3,User Not Defined
+2022,Hyundai,HECTOR SHARP,T,63793,Diesel,Manual,21824,13.92,12.75,User Not Defined
+2024,Hyundai,ASTOR Sprint,T,11044,Petrol,Manual,14670,8.86,8.57,User Not Defined
+2023,Hyundai,ASTOR SMART,T,50427,Petrol,Auto,16866,10.0,9.85,User Not Defined
+2022,Hyundai,ASTOR SUPER,T,71387,Petrol,Manual,13518,6.9700273224043725,7.66,User Not Defined
+2020,Hyundai,ASTOR STYLE,T,68070,Petrol,Manual,13416,6.9700273224043725,7.6,User Not Defined
+2020,MG,ASTOR SHARP,T,41808,Petrol,Manual,18150,7.270084745762712,10.6,User Not Defined
+2020,MG,ASTOR SMART,T,24974,Petrol,Manual,20376,7.270084745762712,11.9,User Not Defined
+2020,MG,ASTOR Select,T,7486,Petrol,Manual,21814,7.270084745762712,12.74,User Not Defined
+2020,MG,ASTOR Select,T,17966,Petrol,Manual,19092,7.270084745762712,11.15,User Not Defined
+2020,MG,ASTOR Select,T,25302,Petrol,Manual,18920,11.1,11.05,User Not Defined
+2020,MG,HECTOR SHARP,T,20844,Petrol,Manual,19767,7.270084745762712,11.54,User Not Defined
+2020,MG,HECTOR SHARP,T,54927,Petrol,Auto,18766,7.270084745762712,10.96,User Not Defined
+2021,MG,HECTOR PLUS,T,100349,Diesel,Manual,25529,13.57,11.74,User Not Defined
+2022,MG,ASTOR SHARP,T,61783,Petrol,Manual,16217,10.1,9.47,User Not Defined
+2021,MG,HECTOR SHARP,T,79188,Petrol,Manual,13913,1.0,7.88,User Not Defined
+2021,MG,HECTOR SHARP,T,72624,Petrol,Auto,14410,1.0,8.42,User Not Defined
+2021,MG,HECTOR SHARP,T,26890,Petrol,Manual,15405,1.0,9.0,User Not Defined
+2022,MG,HECTOR SHARP,T,34915,Petrol,Auto,19228,1.0,11.23,User Not Defined
+2022,MG,HECTOR SHARP,T,133293,Petrol,Auto,19232,1.0,8.85,User Not Defined
+2025,MG,HECTOR SHARP,T,4591,Petrol,Manual,17079,7.270084745762712,9.97,User Not Defined
+2020,MG,HECTOR SHARP,T,94803,Petrol,Manual,16759,1.66,1.5,User Not Defined
+2020,MG,HECTOR SHARP,T,9425,Diesel,Manual,16759,7.270084745762712,2.13,User Not Defined
+2020,MG,HECTOR SHARP,T,144011,Petrol,Manual,17807,7.270084745762712,8.19,User Not Defined
+2020,MG,HECTOR SHARP,T,42179,Petrol,Auto,12180,7.25,6.9,User Not Defined
+2020,Hyundai,HECTOR SHARP,T,96979,Petrol,Auto,16694,1.0,9.75,User Not Defined
+2020,Hyundai,HECTOR SHARP,T,13231,Petrol,Manual,21403,1.0,12.5,User Not Defined
+2020,Hyundai,HECTOR SHARP,T,214409,Diesel,Manual,50644,6.9700273224043725,5.7,User Not Defined
+2020,Hyundai,HECTOR SHARP,T,19912,Petrol,Auto,24656,1.5,14.4,User Not Defined
+2020,Hyundai,HECTOR SHARP,T,20064,Petrol,Auto,36585,6.9700273224043725,21.37,User Not Defined
+2020,Hyundai,HECTOR SHARP,T,144125,Diesel,Auto,19596,6.9700273224043725,5.9,User Not Defined
+2020,Hyundai,HECTOR SHARP,T,43317,Petrol,Auto,51812,6.9700273224043725,30.26,User Not Defined
+2023,Hyundai,HECTOR SHARP,T,78289,Petrol,Manual,12666,8.81,7.17,User Not Defined
+2015,Hyundai,HECTOR SHARP,T,53592,Diesel,Auto,15677,6.9700273224043725,4.72,User Not Defined
+2016,Hyundai,Swift ZXI,ZXI,65394,Petrol,Manual,6902,3.65,3.1,"Gaur City mall, Multilevel parking, Greater Noida"
+2019,Hyundai,New Wagon,ZXI,244786,Petrol,Manual,5684,3.6,3.22,"Gaur City mall, Multilevel parking, Greater Noida"
+2024,Hyundai,Dzire ZXI,ZXI,87077,CNG,Manual,12160,7.24,6.89,"Gaur City mall, Multilevel parking, Greater Noida"
+2022,Hyundai,IGNIS ZETA,ZETA,271219,Petrol,Manual,6777,4.3,3.84,"Gaur City mall, Multilevel parking, Greater Noida"
+2022,Hyundai,Vitara Brezza,VXI,50327,Petrol,Manual,11121,6.42,6.3,"Wave One Mall, Sec-18, Noida"
+2021,Hyundai,Dzire VXI,VXI,155543,Petrol,Manual,8331,5.28,3.75,"Gaur City mall, Multilevel parking, Greater Noida"
+2018,Hyundai,IGNIS DELTA,T,62315,CNG,Auto,8542,3.99,3.84,"Wave One Mall, Sec-18, Noida"
+2023,Hyundai,Alto K,VXI,33444,Petrol,Manual,6002,6.9700273224043725,3.4,"Wave One Mall, Sec-18, Noida"
+2015,Hyundai,Alto K,VXI,113655,Petrol,Manual,4740,2.1,1.8,"Gaur City mall, Multilevel parking, Greater Noida"
+2017,Hyundai,Baleno DELTA,T,283208,Petrol,Manual,5765,3.7,2.95,"Gaur City mall, Multilevel parking, Greater Noida"
+2020,Maruti,Vitara Brezza,ZXI,93621,Petrol,Manual,7949,5.5,4.5,"Gaur City mall, Multilevel parking, Greater Noida"
+2014,Maruti,Celerio VXI,VXI,108443,CNG,Auto,16437,2.0,1.85,"Wave One Mall, Sec-18, Noida"
+2014,Maruti,Wagon R,VXI,26237,Petrol,Manual,5813,1.8,1.75,"Gaur City mall, Multilevel parking, Greater Noida"
+2023,Maruti,Grand Vitara,T,61500,Petrol,Manual,13946,8.03,7.9,"Wave One Mall, Sec-18, Noida"
+2023,Maruti,Grand Vitara,ZETA,11403,Petrol,Manual,16780,4.90144,9.8,"Wave One Mall, Sec-18, Noida"
+2019,Maruti,Baleno DELTA,T,251805,Petrol,Manual,6367,3.79,3.61,"Wave One Mall, Sec-18, Noida"
+2017,Maruti,Swift LXI,LXI,30486,Petrol,Manual,5480,3.1,2.8,"Gaur City mall, Multilevel parking, Greater Noida"
+2023,Maruti,Ciaz ALPHA,T,62558,Petrol,Manual,12549,7.64,7.11,"Wave One Mall, Sec-18, Noida"
+2021,Maruti,New Wagon,LXI,74376,CNG,Manual,6883,4.0,3.9,"Wave One Mall, Sec-18, Noida"
+2021,Maruti,Swift VXI,VXI,23397,Petrol,Auto,8198,5.25,4.64,"Wave One Mall, Sec-18, Noida"
+2017,Maruti,Swift LXI,LXI,86606,Petrol,Manual,5279,3.11,2.7,"Metro Walk, Rohini, New Delhi"
+2018,Maruti,Swift VXI,VXI,33242,Petrol,Manual,6532,3.8,3.7,"M3M Urbana, Golf Course Ext., Gurugram"
+2018,Maruti,Swift VXI,VXI,59675,Petrol,Manual,6002,3.59,3.4,Rajouri Garden
+2022,Maruti,Swift LXI,LXI,66173,Petrol,Manual,7107,4.37,4.03,"M3M Urbana, Golf Course Ext., Gurugram"
+2014,Maruti,Grand i,LXI,111879,Petrol,Manual,3292,1.7,0.99,"Udyog Vihar, Sector 18, Gurgaon"
+2022,Maruti,Dzire VXI,VXI,56329,CNG,Manual,9718,5.99,5.5,Rajouri Garden
+2021,Maruti,Grand i,XL,47413,Petrol,Manual,11956,7.33,6.77,"Piyush Mahendra Mall, opp. Dussehra Ground, NIT - 3"
+2017,Maruti,Vitara Brezza,VXI,138568,Diesel,Manual,35010,4.58,3.94,"M3M Urbana, Golf Course Ext., Gurugram"
+2022,Maruti,Swift LXI,LXI,26708,Petrol,Manual,7414,4.36,4.2,"M3M Urbana, Golf Course Ext., Gurugram"
+2015,Maruti,Wagon R,VXI,84560,Petrol,Manual,4556,1.95,1.73,DLF South Court Saket
+2020,Maruti,Swift LXI,LXI,30683,Petrol,Manual,6708,3.99,3.8,"Radisson Blu, Sector 13, Dwarka, New Delhi"
+2015,Maruti,Swift VDI,T,87121,Diesel,Manual,28405,3.81,3.13,"M3M Urbana, Golf Course Ext., Gurugram"
+2017,Maruti,Wagon R,VXI,43479,Petrol,Manual,4594,2.6,2.35,"Piyush Mahendra Mall, opp. Dussehra Ground, NIT - 3"
+2016,Maruti,Baleno DELTA,T,260504,Petrol,Manual,6513,3.2,2.93,"Metro Walk, Rohini, New Delhi"
+2022,Maruti,BREZZA VXI,VXI,88362,Petrol,Manual,10729,6.94,6.08,"Udyog Vihar, Sector 18, Gurgaon"
+2022,Maruti,Ertiga ZXI,ZXI,55720,Petrol,Manual,15761,9.78,9.2,"GNB Mall, Raj Nagar Extension, Ghaziabad"
+2020,Maruti,Swift LXI,LXI,50718,Petrol,Manual,6523,4.0,3.69,"Radisson Blu, Sector 13, Dwarka, New Delhi"
+2020,Maruti,Baleno SIGMA,T,254060,Petrol,Manual,6177,4.90144,3.5,Rajouri Garden
+2023,Maruti,Swift LXI,LXI,36937,Petrol,Manual,7725,4.91,4.38,"Udyog Vihar, Sector 18, Gurgaon"
+2015,Maruti,Swift VXI,VXI,33517,Petrol,Manual,6183,2.72,2.35,"GNB Mall, Raj Nagar Extension, Ghaziabad"
+2017,Maruti,Elite i,T,265864,Petrol,Manual,7038,3.73,3.6,"Gaur City mall, Multilevel parking, Greater Noida"
+2016,Maruti,Grand i,T,194379,Petrol,Manual,4122,2.2,1.85,"Gaur City mall, Multilevel parking, Greater Noida"
+2020,Maruti,AURA S,not defined,66943,CNG,Manual,7432,4.9,4.21,"Gaur City mall, Multilevel parking, Greater Noida"
+2015,Maruti,Verna FLUIDIC,T,74454,Petrol,Manual,7452,3.15,2.83,"Wave One Mall, Sec-18, Noida"
+2024,Maruti,Grand i,T,58061,CNG,Manual,9958,6.16,5.64,"Wave One Mall, Sec-18, Noida"
+2016,Maruti,Grand i,T,74786,Petrol,Manual,5784,4.90144,2.6,"Gaur City mall, Multilevel parking, Greater Noida"
+2022,Maruti,GRAND I,T,72937,Petrol,Manual,7661,4.90144,4.34,"Wave One Mall, Sec-18, Noida"
+2024,Maruti,VENUE S,T,80424,Petrol,Auto,14114,4.90144,8.24,"Gaur City mall, Multilevel parking, Greater Noida"
+2024,Maruti,VENUE S,T,42902,Petrol,Auto,15385,10.04,8.99,"Gaur City mall, Multilevel parking, Greater Noida"
+2017,Maruti,Grand i,T,100541,Petrol,Manual,6006,2.8,2.7,"Gaur City mall, Multilevel parking, Greater Noida"
+2017,Hyundai,Elite i,T,269994,Petrol,Manual,6569,3.67,3.36,"Gaur City mall, Multilevel parking, Greater Noida"
+2016,Hyundai,Grand i,T,18632,Petrol,Manual,6391,3.1,2.87,"Gaur City mall, Multilevel parking, Greater Noida"
+2023,Hyundai,AURA SX,SX,49421,CNG,Manual,10592,6.2,6.0,"Wave One Mall, Sec-18, Noida"
+2017,Hyundai,Creta SX,SX,57451,Petrol,Auto,10655,5.6,5.45,"Wave One Mall, Sec-18, Noida"
+2016,Hyundai,Creta SX,SX,57574,Petrol,Manual,9125,4.82,4.1,"Wave One Mall, Sec-18, Noida"
+2019,Hyundai,Grand i,T,148028,Petrol,Manual,7737,4.23,3.48,"Wave One Mall, Sec-18, Noida"
+2021,Hyundai,Creta SX,SX,56690,Petrol,Auto,17943,10.9,10.48,"Wave One Mall, Sec-18, Noida"
+2023,Hyundai,Creta SX,SX,48730,Petrol,Manual,15713,10.7,9.18,"Wave One Mall, Sec-18, Noida"
+2023,Hyundai,Creta SX,SX,67283,Petrol,Auto,16369,13.33,9.56,"Gaur City mall, Multilevel parking, Greater Noida"
+2017,Hyundai,Grand i,T,67036,Petrol,Auto,5169,3.49,2.64,"Gaur City mall, Multilevel parking, Greater Noida"
+2015,Hyundai,Eon MAGNA,not defined,43518,Petrol,Manual,4529,1.88,1.72,"Radisson Blu, Sector 13, Dwarka, New Delhi"
+2016,Hyundai,Creta SX,SX,58326,Petrol,Manual,9925,6.04,4.46,"Metro Walk, Rohini, New Delhi"
+2016,Hyundai,Creta S,T,73877,Petrol,Manual,7797,4.59,3.5,"M3M Urbana, Golf Course Ext., Gurugram"
+2019,Hyundai,HECTOR SHARP,T,30096,Petrol,Manual,9944,6.52,5.63,"Piyush Mahendra Mall, opp. Dussehra Ground, NIT - 3"
+2016,Hyundai,Grand i,T,45553,Petrol,Manual,5658,6.9700273224043725,2.54,Rajouri Garden
+2016,Hyundai,Creta S,T,70803,Petrol,Manual,8849,5.01,3.98,"Metro Walk, Rohini, New Delhi"
+2014,Hyundai,Grand i,T,58791,Petrol,Manual,5361,2.05,1.61,"Metro Walk, Rohini, New Delhi"
+2018,Hyundai,Creta SX,SX,47399,Petrol,Manual,11801,7.76,6.68,"M3M Urbana, Golf Course Ext., Gurugram"
+2017,Hyundai,Grand i,T,60132,Petrol,Manual,5279,6.9700273224043725,2.7,"Radisson Blu, Sector 13, Dwarka, New Delhi"
+2018,Hyundai,Creta E,T,56620,Petrol,Manual,8562,4.97,4.85,"GNB Mall, Raj Nagar Extension, Ghaziabad"
+2018,Hyundai,Grand i,T,76881,Petrol,Manual,5649,6.9700273224043725,3.2,"M3M Urbana, Golf Course Ext., Gurugram"
+2018,Hyundai,Creta SX,SX,67539,Petrol,Manual,9886,6.67,5.6,DLF South Court Saket
+2020,Hyundai,Creta SX,SX,22938,Petrol,Manual,10919,6.71,6.19,"M3M Urbana, Golf Course Ext., Gurugram"
+2019,Hyundai,HECTOR SHARP,T,57966,Petrol,Manual,7238,4.25,4.1,"GNB Mall, Raj Nagar Extension, Ghaziabad"
+2016,Hyundai,Grand i,T,57377,Petrol,Manual,5877,2.7,2.64,"Metro Walk, Rohini, New Delhi"
+2020,Hyundai,Verna SX,SX,68332,Petrol,Auto,13953,6.9700273224043725,7.9,DLF South Court Saket
+2016,Hyundai,Creta SX,SX,78090,Petrol,Auto,9765,7.12,4.39,"M3M Urbana, Golf Course Ext., Gurugram"
+2017,Hyundai,Creta E,T,35875,Petrol,Manual,9009,5.1,4.61,"M3M Urbana, Golf Course Ext., Gurugram"
+2017,Hyundai,Creta E,T,78458,Petrol,Manual,8708,4.99,4.45,"Metro Walk, Rohini, New Delhi"
+2019,Hyundai,Creta E,T,93512,Diesel,Manual,23895,7.72,7.19,"M3M Urbana, Golf Course Ext., Gurugram"
+2016,Hyundai,Tiago XT,T,58676,Petrol,Manual,5129,2.41,2.31,"Gaur City mall, Multilevel parking, Greater Noida"
+2019,Hyundai,Tiago XT,T,89491,CNG,Manual,4868,3.34,2.49,"Gaur City mall, Multilevel parking, Greater Noida"
+2021,Hyundai,Tiago XZ,T,27429,Petrol,Manual,6297,5.3,3.57,"Gaur City mall, Multilevel parking, Greater Noida"
+2021,Hyundai,Tiago XE,T,66760,Petrol,Manual,5444,3.3,3.08,"Wave One Mall, Sec-18, Noida"
+2022,Hyundai,Tiago XZ,T,36460,CNG,Manual,7591,5.07,4.3,"Gaur City mall, Multilevel parking, Greater Noida"
+2017,Hyundai,Tiago XM,T,72082,Petrol,Manual,4827,2.68,2.47,"Gaur City mall, Multilevel parking, Greater Noida"
+2022,Hyundai,PUNCH ACCOMPLISHED,T,87423,Petrol,Manual,8367,5.09,4.74,"Wave One Mall, Sec-18, Noida"
+2020,Hyundai,NEXON XZ,T,51093,Petrol,Manual,8200,5.11,4.64,"Gaur City mall, Multilevel parking, Greater Noida"
+2020,Hyundai,NEXON XM,T,86625,Petrol,Manual,7462,4.99,4.23,"Gaur City mall, Multilevel parking, Greater Noida"
+2020,Hyundai,Harrier XT,T,124650,Diesel,Manual,20785,2.0,7.89,"Wave One Mall, Sec-18, Noida"
+2021,Tata,PUNCH CREATIVE,T,74710,Petrol,Auto,8103,6.99,4.59,"Gaur City mall, Multilevel parking, Greater Noida"
+2019,Tata,NEXON XZ,T,57562,Petrol,Manual,7216,4.59,4.09,"Gaur City mall, Multilevel parking, Greater Noida"
+2024,Tata,NEXON SMART,T,30687,Petrol,Manual,12180,7.2,6.9,"Wave One Mall, Sec-18, Noida"
+2023,Tata,NEXON XZ,T,35144,Petrol,Manual,11608,10.52,6.58,"Wave One Mall, Sec-18, Noida"
+2023,Tata,Harrier FEARLESS,T,47597,Diesel,Auto,29964,7.7038383838383835,17.5,"Gaur City mall, Multilevel parking, Greater Noida"
+2022,Tata,NEXON XE,T,34483,Petrol,Manual,9003,5.52,5.1,"Wave One Mall, Sec-18, Noida"
+2022,Tata,Tiago XZ,T,80793,CNG,Manual,7306,5.13,4.14,"Gaur City mall, Multilevel parking, Greater Noida"
+2021,Tata,Safari XZ,T,59576,Diesel,Manual,24678,11.48,11.35,"Wave One Mall, Sec-18, Noida"
+2021,Tata,Tiago XT,T,67770,Petrol,Manual,4959,3.49,2.81,"Wave One Mall, Sec-18, Noida"
+2019,Tata,Tiago XZ,T,75893,Petrol,Manual,4977,3.28,2.82,"Wave One Mall, Sec-18, Noida"
+2022,Tata,ALTROZ XT,T,53604,Petrol,Manual,7414,7.7038383838383835,4.2,"M3M Urbana, Golf Course Ext., Gurugram"
+2021,Tata,Tiago XZ,T,52956,Petrol,Manual,6443,3.9,3.65,"GNB Mall, Raj Nagar Extension, Ghaziabad"
+2021,Tata,Tiago XT,T,49085,Petrol,Manual,5965,3.6,3.38,"M3M Urbana, Golf Course Ext., Gurugram"
+2018,Tata,Tiago XZ,T,60058,Petrol,Manual,5088,3.05,2.88,DLF South Court Saket
+2021,Tata,Tiago XZ,T,70488,Petrol,Manual,5360,3.75,3.04,"Metro Walk, Rohini, New Delhi"
+2020,Tata,Tiago XZ,T,71384,Petrol,Manual,5649,3.37,3.2,"GNB Mall, Raj Nagar Extension, Ghaziabad"
+2023,Tata,NEXON XZ,T,35654,Petrol,Manual,11074,7.7038383838383835,6.27,"Udyog Vihar, Sector 18, Gurgaon"
+2020,Tata,Tiago XZ,T,106731,Petrol,Manual,8003,7.7038383838383835,3.6,"M3M Urbana, Golf Course Ext., Gurugram"
+2019,Tata,Tiago WIZZ,T,98781,Petrol,Manual,4340,2.89,2.46,"M3M Urbana, Golf Course Ext., Gurugram"
+2020,Tata,NEXON XMA,T,92329,Petrol,Auto,7591,4.4,4.3,"M3M Urbana, Golf Course Ext., Gurugram"
+2021,Tata,ALTROZ XT,T,64673,Petrol,Manual,5880,4.05,3.33,"M3M Urbana, Golf Course Ext., Gurugram"
+2023,Tata,PUNCH ADVENTURE,T,78363,Petrol,Manual,7225,5.28,4.09,"M3M Urbana, Golf Course Ext., Gurugram"
+2018,Tata,Tiago XM,T,47355,Petrol,Manual,4231,2.88,2.4,"M3M Urbana, Golf Course Ext., Gurugram"
+2022,Tata,NEXON XZ,T,91201,Petrol,Manual,10768,8.33,6.1,"M3M Urbana, Golf Course Ext., Gurugram"
+2022,Tata,ALTROZ XMA,T,77101,Petrol,Manual,7114,5.11,4.03,"Piyush Mahendra Mall, opp. Dussehra Ground, NIT - 3"
+2022,Tata,TIGOR XMA,T,13282,Petrol,Auto,8032,4.68,4.55,"M3M Urbana, Golf Course Ext., Gurugram"
+2024,Tata,PUNCH ADVENTURE,T,50048,CNG,Manual,10574,7.7038383838383835,5.99,"Piyush Mahendra Mall, opp. Dussehra Ground, NIT - 3"
+2024,Tata,Curvv Pure,T,17191,Petrol,Manual,15068,7.7038383838383835,8.8,"Piyush Mahendra Mall, opp. Dussehra Ground, NIT - 3"
+2025,Tata,Curvv Creative,T,24397,Petrol,Auto,18401,12.0,10.75,"M3M Urbana, Golf Course Ext., Gurugram"
+2023,Tata,TIGOR XZ,T,115258,CNG,Manual,10323,7.7038383838383835,4.64,"Piyush Mahendra Mall, opp. Dussehra Ground, NIT - 3"
+2022,Tata,NEXON XZ,T,43059,Petrol,Auto,48285,28.5,28.2,"Gaur City mall, Multilevel parking, Greater Noida"
+2020,Tata,NEXON XZ,T,490009,Petrol,Auto,27772,7.7038383838383835,4.7,User Not Defined
+2020,Tata,NEXON XZ,T,147681,Diesel,Auto,27772,7.7038383838383835,6.38,User Not Defined
+2019,Tata,NEXON XZ,T,51008,Petrol,Manual,11534,6.99,6.53,"Gaur City mall, Multilevel parking, Greater Noida"
+2023,Tata,NEXON XZ,T,32656,Petrol,Manual,13768,8.29,8.04,"Gaur City mall, Multilevel parking, Greater Noida"
+2023,Tata,NEXON XZ,T,62712,Petrol,Manual,10345,8.92,5.86,"Gaur City mall, Multilevel parking, Greater Noida"
+2022,Tata,NEXON XZ,T,2129073,Petrol,Manual,13324,7.69,5.99,"Wave One Mall, Sec-18, Noida"
+2022,Tata,NEXON XZ,T,95077,Diesel,Manual,16297,9.0,8.56,"Gaur City mall, Multilevel parking, Greater Noida"
+2025,Tata,NEXON XZ,T,43177,Petrol,Auto,28733,18.86,16.78,"Wave One Mall, Sec-18, Noida"
+2021,Tata,NEXON XZ,T,65946,Petrol,Manual,11121,7.7038383838383835,6.3,"Wave One Mall, Sec-18, Noida"
+2022,Hyundai,HECTOR SHARP,T,28638,Petrol,Manual,11618,6.9700273224043725,6.58,"Wave One Mall, Sec-18, Noida"
+2023,Hyundai,HECTOR SHARP,T,40779,Petrol,Manual,11615,7.49,6.58,"Wave One Mall, Sec-18, Noida"
+2025,Hyundai,HECTOR SHARP,T,7801,Petrol,Auto,20338,12.2,11.88,"Gaur City mall, Multilevel parking, Greater Noida"
+2023,Hyundai,HECTOR SHARP,T,41520,Petrol,Manual,14554,6.9700273224043725,8.5,"Gaur City mall, Multilevel parking, Greater Noida"
+2022,Hyundai,HECTOR SHARP,T,78927,Diesel,Auto,20292,11.6,10.66,"Wave One Mall, Sec-18, Noida"
+2023,Hyundai,HECTOR SHARP,T,53052,Diesel,Manual,15401,6.9700273224043725,8.99,"Wave One Mall, Sec-18, Noida"
+2020,Hyundai,HECTOR SHARP,T,58455,Diesel,Auto,24744,14.0,13.0,User Not Defined
+2020,Hyundai,HECTOR SHARP,T,133637,Petrol,Manual,13347,7.0,6.0,User Not Defined
+2020,Hyundai,HECTOR SHARP,T,113725,Petrol,Manual,17394,8.92,8.0,User Not Defined
+2020,Hyundai,HECTOR SHARP,T,17717,Petrol,Manual,13240,8.2,7.5,User Not Defined
+2020,Hyundai,HECTOR SHARP,T,59797,Petrol,Auto,11986,6.99,6.79,User Not Defined
+2020,Hyundai,HECTOR SHARP,T,99096,Diesel,Auto,24911,6.9700273224043725,7.5,User Not Defined
+2020,Hyundai,HECTOR SHARP,T,13889,Petrol,Auto,24156,6.9700273224043725,14.11,User Not Defined
+2022,Hyundai,HECTOR SHARP,T,50329,Petrol,Manual,12246,7.75,6.94,"Udyog Vihar, Sector 18, Gurgaon"
+2020,Hyundai,HECTOR SHARP,T,585834,Petrol,Manual,10574,6.3,5.99,"Metro Walk, Rohini, New Delhi"
+2020,Hyundai,HECTOR SHARP,T,58614,Petrol,Manual,10284,6.2,5.83,"M3M Urbana, Golf Course Ext., Gurugram"
+2022,Hyundai,HECTOR SHARP,T,35143,Diesel,Manual,18463,10.29,9.7,"M3M Urbana, Golf Course Ext., Gurugram"
+2021,Hyundai,HECTOR SHARP,T,53637,Petrol,Manual,9605,5.84,5.44,"M3M Urbana, Golf Course Ext., Gurugram"
+2021,Hyundai,HECTOR SHARP,T,79917,Petrol,Manual,13268,8.41,7.52,"M3M Urbana, Golf Course Ext., Gurugram"
+2020,Hyundai,HECTOR SHARP,T,75340,Petrol,Auto,14919,9.27,8.71,"Piyush Mahendra Mall, opp. Dussehra Ground, NIT - 3"
+2023,Hyundai,HECTOR SHARP,T,84462,Diesel,Manual,17771,10.85,10.38,"M3M Urbana, Golf Course Ext., Gurugram"
+2023,Hyundai,HECTOR SHARP,T,570186,Diesel,Manual,16246,11.0,9.49,"GNB Mall, Raj Nagar Extension, Ghaziabad"
+2022,Hyundai,HECTOR SHARP,T,538834,Petrol,Manual,15955,12.61,9.32,"GNB Mall, Raj Nagar Extension, Ghaziabad"
+2019,Hyundai,HECTOR SHARP,T,30329,Petrol,Manual,11063,6.83,6.27,"Metro Walk, Rohini, New Delhi"
+2022,Hyundai,HECTOR SHARP,T,33516,Petrol,Auto,14897,9.2,8.7,DLF South Court Saket
+2021,Hyundai,HECTOR SHARP,T,72099,Petrol,Manual,11728,6.78,6.64,DLF South Court Saket
+2021,Hyundai,HECTOR SHARP,T,87148,Petrol,Manual,9820,6.29,5.56,"GNB Mall, Raj Nagar Extension, Ghaziabad"
+2019,Hyundai,HECTOR SHARP,T,72932,Petrol,Auto,11619,7.78,6.58,Rajouri Garden
+2021,Hyundai,HECTOR SHARP,T,89642,Diesel,Manual,15814,7.4,7.11,"M3M Urbana, Golf Course Ext., Gurugram"
+2020,Hyundai,HECTOR SHARP,T,91134,Petrol,Auto,12741,7.4,7.22,"Piyush Mahendra Mall, opp. Dussehra Ground, NIT - 3"
+2024,Hyundai,HECTOR SHARP,T,44341,Petrol,Manual,14554,6.9700273224043725,8.5,"Metro Walk, Rohini, New Delhi"
+2022,Hyundai,HECTOR SHARP,T,29351,Petrol,Manual,14286,8.37,8.34,"Metro Walk, Rohini, New Delhi"
+2020,Hyundai,HECTOR SHARP,T,43647,Petrol,Auto,12710,7.3,7.2,DLF South Court Saket
+2021,Hyundai,HECTOR SHARP,T,37997,Petrol,Manual,16891,12.95,9.87,"Wave One Mall, Sec-18, Noida"
+2024,Hyundai,HECTOR Shine,T,9944,Diesel,Manual,24656,17.76,14.4,"Wave One Mall, Sec-18, Noida"
+2022,Hyundai,ASTOR SAVVY,T,20617,Petrol,Auto,13771,9.64,7.8,"Wave One Mall, Sec-18, Noida"
+2022,Hyundai,HECTOR PLUS,T,70691,Diesel,Manual,25886,13.7,13.6,"Wave One Mall, Sec-18, Noida"
+2021,Hyundai,HECTOR PLUS,T,88872,Petrol,Auto,16765,11.0,9.79,"Wave One Mall, Sec-18, Noida"
+2020,Hyundai,HECTOR SHARP,T,73124,Petrol,Auto,15060,6.9700273224043725,8.8,"Gaur City mall, Multilevel parking, Greater Noida"
+2020,Hyundai,ASTOR SUPER,T,49487,Petrol,Manual,13698,8.4,8.0,User Not Defined
+2020,Hyundai,HECTOR SHARP,T,104784,Diesel,Manual,17394,8.15,8.0,User Not Defined
+2020,Hyundai,HECTOR SHARP,T,47431,Petrol,Auto,20718,6.9700273224043725,12.1,User Not Defined
+2020,Hyundai,HECTOR SHARP,T,23241,Petrol,Auto,23800,14.2,13.9,User Not Defined
+2020,MG,HECTOR SHARP,T,85063,Petrol,Manual,15068,9.0,8.8,User Not Defined
+2020,MG,HECTOR SHARP,T,47267,Petrol,Auto,17122,12.6,10.0,User Not Defined
+2020,MG,HECTOR PLUS,T,31241,Petrol,Manual,24571,7.270084745762712,14.35,User Not Defined
+2020,MG,HECTOR SMART,T,56962,Petrol,Manual,19691,7.270084745762712,11.5,User Not Defined
+2020,MG,HECTOR PLUS,T,51508,Petrol,Auto,22259,7.270084745762712,13.0,User Not Defined
+2020,MG,ASTOR SHARP,T,30527,Petrol,Auto,19263,7.270084745762712,11.25,User Not Defined
+2020,MG,ASTOR SAVVY,T,43418,Petrol,Auto,17105,10.0,9.99,User Not Defined
+2020,MG,HECTOR PLUS,T,41306,Petrol,Auto,23115,14.0,13.5,User Not Defined
+2020,MG,HECTOR PLUS,T,44786,Petrol,Auto,25667,15.9,14.99,User Not Defined
+2020,MG,HECTOR SHARP,T,69383,Petrol,Auto,15410,9.75,9.0,User Not Defined
+2021,MG,HECTOR SUPER,T,38638,Petrol,Manual,13988,7.270084745762712,7.92,"Metro Walk, Rohini, New Delhi"
+2021,MG,HECTOR SUPER,T,74557,Petrol,Manual,13741,7.270084745762712,8.03,"Piyush Mahendra Mall, opp. Dussehra Ground, NIT - 3"
+2020,MG,HECTOR SHARP,T,70953,Petrol,Manual,13654,8.47,7.74,Rajouri Garden
+2023,MG,HECTOR SHARP,T,102806,Diesel,Manual,25882,14.38,11.9,"GNB Mall, Raj Nagar Extension, Ghaziabad"
+2019,MG,HECTOR SUPER,T,37344,Petrol,Manual,11715,6.91,6.64,"Metro Walk, Rohini, New Delhi"
+2021,MG,HECTOR SHARP,T,44913,Petrol,Auto,13536,11.23,7.67,"Udyog Vihar, Sector 18, Gurgaon"
+2022,MG,HECTOR SHINE,T,3910,Petrol,Manual,14477,12.89,8.46,"GNB Mall, Raj Nagar Extension, Ghaziabad"
+2021,MG,HECTOR SHINE,T,54866,Petrol,Manual,14029,8.4,7.95,"Metro Walk, Rohini, New Delhi"
+2020,MG,HECTOR SHARP,T,34617,Petrol,Auto,13986,8.38,7.92,"Metro Walk, Rohini, New Delhi"
+2023,MG,ASTOR SHARP,T,28026,Petrol,Manual,13879,11.72,8.11,"M3M Urbana, Golf Course Ext., Gurugram"
+2024,MG,ASTOR SAVVY,T,79139,Petrol,Auto,14552,11.3,8.5,"M3M Urbana, Golf Course Ext., Gurugram"
+2023,MG,HECTOR SAVVY,T,102801,Petrol,Auto,25676,19.99,11.81,"GNB Mall, Raj Nagar Extension, Ghaziabad"
+2022,MG,HECTOR SHARP,T,70285,Petrol,Manual,13979,9.57,7.92,"Udyog Vihar, Sector 18, Gurgaon"
+2024,MG,HECTOR SMART,T,62038,Diesel,Manual,26540,16.23,15.5,"GNB Mall, Raj Nagar Extension, Ghaziabad"
+2021,MG,HECTOR SHARP,T,85738,Diesel,Manual,17206,10.11,7.74,"GNB Mall, Raj Nagar Extension, Ghaziabad"
+2020,MG,HECTOR SHARP,T,36156,Petrol,Auto,14186,8.8,8.29,"Metro Walk, Rohini, New Delhi"
+2022,MG,HECTOR SHARP,T,55927,Petrol,Auto,18247,12.2,10.66,DLF South Court Saket
+2021,MG,HECTOR SHARP,T,24823,Petrol,Auto,16285,11.32,9.51,"M3M Urbana, Golf Course Ext., Gurugram"
+2023,MG,HECTOR SHARP,T,34830,Petrol,Auto,18885,12.93,11.03,"Metro Walk, Rohini, New Delhi"
+2020,MG,HECTOR SHARP,T,30959,Petrol,Auto,15785,7.270084745762712,9.22,DLF South Court Saket
+2021,MG,HECTOR SHARP,T,73194,Petrol,Manual,11784,1.0,6.68,"Wave One Mall, Sec-18, Noida"
+2023,MG,HECTOR SHARP,T,80219,Petrol,Manual,11116,7.25,6.3,"Wave One Mall, Sec-18, Noida"
+2023,MG,HECTOR SHARP,T,89255,Petrol,Auto,12733,1.0,7.21,"Wave One Mall, Sec-18, Noida"
+2024,MG,HECTOR SHARP,T,82121,Petrol,Manual,14379,1.0,8.4,"Wave One Mall, Sec-18, Noida"
+2020,MG,HECTOR SHARP,T,120870,Petrol,Auto,18807,7.270084745762712,8.65,User Not Defined
+2020,MG,HECTOR SHARP,T,125262,Petrol,Manual,16759,7.270084745762712,0.85,User Not Defined
+2020,MG,HECTOR SHARP,T,80142,Petrol,Auto,14614,1.0,8.54,User Not Defined
+2020,MG,HECTOR SHARP,T,25500,Petrol,Manual,16759,7.270084745762712,0.85,User Not Defined
+2020,MG,HECTOR SHARP,T,93004,Petrol,Manual,14554,1.0,8.5,User Not Defined
+2020,MG,HECTOR SHARP,T,18000,Petrol,Auto,21061,1.0,12.3,User Not Defined
+2020,Hyundai,HECTOR SHARP,T,75712,Petrol,Auto,14126,1.0,8.25,User Not Defined
+2020,Hyundai,HECTOR SHARP,T,53652,Petrol,Manual,20547,1.5,12.0,User Not Defined
+2020,Hyundai,HECTOR SHARP,T,77348,Petrol,Auto,21403,12.9,12.5,User Not Defined
+2020,Hyundai,HECTOR SHARP,T,54005,Petrol,Auto,20547,1.5,12.0,User Not Defined
+2020,Hyundai,HECTOR SHARP,T,32897,Petrol,Auto,19006,1.0,11.1,User Not Defined
+2020,Hyundai,HECTOR SHARP,T,44099,Petrol,Manual,16951,1.0,9.9,User Not Defined
+2020,Hyundai,HECTOR SHARP,T,20973,Petrol,Auto,17807,6.9700273224043725,10.4,User Not Defined
+2020,Hyundai,HECTOR SHARP,T,67284,Petrol,Auto,17122,1.0,10.0,User Not Defined
+2022,Hyundai,HECTOR SHARP,T,59236,Petrol,Manual,10064,1.0,5.7,"M3M Urbana, Golf Course Ext., Gurugram"
+2025,Hyundai,HECTOR SHARP,T,19275,Petrol,Manual,13418,8.82,7.6,"Metro Walk, Rohini, New Delhi"
+2022,Hyundai,HECTOR SHARP,T,48901,Petrol,Auto,18749,1.5,10.95,"M3M Urbana, Golf Course Ext., Gurugram"
+2024,Hyundai,HECTOR SHARP,T,26000,Petrol,Auto,22884,18.16,13.37,"Piyush Mahendra Mall, opp. Dussehra Ground, NIT - 3"
+2022,Hyundai,HECTOR SHARP,T,30826,Petrol,Manual,13254,1.0,7.51,"Piyush Mahendra Mall, opp. Dussehra Ground, NIT - 3"
+2022,Hyundai,HECTOR SHARP,T,91507,Petrol,Manual,10558,1.0,5.98,"M3M Urbana, Golf Course Ext., Gurugram"
+2022,Hyundai,HECTOR SHARP,T,57355,Petrol,Auto,14212,1.0,8.3,"M3M Urbana, Golf Course Ext., Gurugram"
+2016,Hyundai,HECTOR SHARP,T,99869,Petrol,Auto,10092,5.65,4.54,"Piyush Mahendra Mall, opp. Dussehra Ground, NIT - 3"
+2022,Hyundai,HECTOR SHARP,T,30319,Petrol,Auto,33902,21.65,19.8,"M3M Urbana, Golf Course Ext., Gurugram"
+2023,Hyundai,HECTOR SHARP,T,44126,Petrol,Manual,15528,1.0,9.07,"Metro Walk, Rohini, New Delhi"
+2022,Hyundai,HECTOR SHARP,T,52202,Petrol,Auto,18492,1.5,10.8,"M3M Urbana, Golf Course Ext., Gurugram"
+2020,Hyundai,HECTOR SHARP,T,126362,Petrol,Manual,18123,6.9700273224043725,3.85,User Not Defined
+2020,Hyundai,HECTOR SHARP,T,64550,Petrol,Manual,17859,6.9700273224043725,0.9,User Not Defined
+2020,Hyundai,HECTOR SHARP,T,85971,Petrol,Manual,17859,6.9700273224043725,0.92,User Not Defined
+2020,Hyundai,HECTOR SHARP,T,88326,Petrol,Auto,17859,6.9700273224043725,1.6,User Not Defined
+2020,Hyundai,HECTOR SHARP,T,24434,Petrol,Auto,21437,1.0,12.52,User Not Defined
+2020,Hyundai,HECTOR SHARP,T,34383,Petrol,Auto,22259,1.5,13.0,User Not Defined
+2020,Hyundai,HECTOR SHARP,T,168262,Diesel,Manual,17859,6.9700273224043725,3.15,User Not Defined
+2020,Hyundai,HECTOR SHARP,T,45723,Petrol,Manual,10592,6.5,6.0,User Not Defined
+2020,Hyundai,HECTOR SHARP,T,44812,Petrol,Manual,19485,1.0,11.38,User Not Defined
+2021,Hyundai,Baleno DELTA,T,278260,Petrol,Manual,8477,6.9700273224043725,4.8,"Karnavati Club, Ahmedabad"
+2017,Hyundai,Swift LXI,LXI,40597,Petrol,Manual,7370,3.95,3.77,"Naroda, Ahmedabad"
+2021,Hyundai,Baleno ZETA,ZETA,251915,Petrol,Auto,9608,5.84,5.44,"Naroda, Ahmedabad"
+2019,Hyundai,Alto K,VXI,62102,Petrol,Manual,4413,6.9700273224043725,2.5,"Naroda, Ahmedabad"
+2020,Hyundai,Ertiga ZXI,ZXI,83897,Petrol,Manual,13148,7.6,7.45,"Naroda, Ahmedabad"
+2021,Hyundai,Dzire ZXI,ZXI,52036,Petrol,Manual,8892,5.35,5.04,"Karnavati Club, Ahmedabad"
+2024,Hyundai,Baleno ALPHA,not defined,50920,Petrol,Auto,12198,6.9700273224043725,6.91,"Naroda, Ahmedabad"
+2021,Hyundai,Baleno ZETA,ZETA,220518,Petrol,Manual,8494,5.15,4.81,"Karnavati Club, Ahmedabad"
+2019,Hyundai,New Wagon,VXI,96822,Petrol,Manual,5435,3.39,3.08,"Karnavati Club, Ahmedabad"
+2022,Hyundai,Dzire ZXI,ZXI,45148,Petrol,Manual,8826,6.9700273224043725,5.0,"Naroda, Ahmedabad"
+2017,Maruti,Wagon R,VXI,72891,Petrol,Manual,4955,2.76,2.53,"Karnavati Club, Ahmedabad"
+2014,Maruti,Swift VXI,VXI,88640,Petrol,Manual,9499,4.90144,2.86,"Naroda, Ahmedabad"
+2016,Maruti,Baleno DELTA,T,255256,Petrol,Auto,8133,3.95,3.66,"Karnavati Club, Ahmedabad"
+2018,Maruti,Baleno ALPHA,T,274351,Petrol,Manual,7767,4.90144,4.4,"Karnavati Club, Ahmedabad"
+2019,Maruti,Dzire VXI,VXI,77247,Petrol,Manual,7395,4.45,4.19,"Karnavati Club, Ahmedabad"
+2022,Maruti,Swift ZXI,ZXI,32366,Petrol,Auto,10311,6.02,5.84,"Karnavati Club, Ahmedabad"
+2021,Maruti,Ertiga ZXI,ZXI,65924,Petrol,Manual,14011,8.35,8.18,"Naroda, Ahmedabad"
+2018,Maruti,IGNIS DELTA,T,272988,Petrol,Manual,5386,3.24,3.05,"Naroda, Ahmedabad"
+2023,Maruti,BREZZA VXI,VXI,47277,Petrol,Manual,12207,7.5,6.92,"Naroda, Ahmedabad"
+2018,Maruti,Baleno ALPHA,T,357857,Diesel,Manual,8813,4.6,4.51,"Karnavati Club, Ahmedabad"
+2016,Maruti,Creta SX,SX,72971,Petrol,Manual,11834,5.88,5.32,"Naroda, Ahmedabad"
+2016,Maruti,Grand i,T,79545,CNG,Manual,11393,3.65,3.43,"Karnavati Club, Ahmedabad"
+2019,Maruti,NEW SANTRO,T,35542,Petrol,Manual,4990,4.90144,2.83,"Karnavati Club, Ahmedabad"
+2018,Maruti,Grand i,SX,88512,Diesel,Manual,12708,4.90144,6.5,"Karnavati Club, Ahmedabad"
+2023,Maruti,NEW I,T,33642,Petrol,Manual,13363,4.90144,7.57,"Karnavati Club, Ahmedabad"
+2019,Maruti,Creta EX,T,62101,Petrol,Manual,11856,7.06,6.72,"Naroda, Ahmedabad"
+2019,Maruti,Grand i,T,35425,Petrol,Manual,6938,3.97,3.93,"Naroda, Ahmedabad"
+2018,Maruti,Elite i,T,294049,CNG,Manual,8046,4.55,3.62,"Naroda, Ahmedabad"
+2017,Maruti,Creta SX,SX,74195,Petrol,Auto,13001,4.90144,6.65,"Naroda, Ahmedabad"
+2017,Maruti,Creta E,T,45720,Petrol,Manual,11022,5.81,5.64,"Karnavati Club, Ahmedabad"
+2019,Hyundai,GRAND I,T,20631,Petrol,Manual,6632,4.17,3.76,"Naroda, Ahmedabad"
+2014,Hyundai,Elite i,T,295704,CNG,Manual,25944,3.45,2.92,"Karnavati Club, Ahmedabad"
+2018,Hyundai,Grand i,T,41502,Petrol,Manual,6258,3.87,3.54,"Karnavati Club, Ahmedabad"
+2014,Hyundai,HECTOR SHARP,T,2116948,Petrol,Manual,8968,2.75,2.7,"Naroda, Ahmedabad"
+2018,Hyundai,Grand i,T,72915,Petrol,Manual,5916,3.63,3.35,"Naroda, Ahmedabad"
+2015,Hyundai,Grand i,T,55188,Petrol,Manual,7813,3.4,2.97,"Naroda, Ahmedabad"
+2015,Hyundai,HECTOR SHARP,T,188997,Petrol,Manual,4745,2.49,1.8,"Karnavati Club, Ahmedabad"
+2016,Hyundai,Creta SX,SX,98792,Petrol,Manual,11712,5.75,5.26,"Naroda, Ahmedabad"
+2016,Hyundai,HECTOR SHARP,T,154825,Petrol,Manual,5770,2.7,2.59,"Naroda, Ahmedabad"
+2021,Hyundai,VENUE SX,SX,63480,Petrol,Manual,9921,6.24,5.62,"Naroda, Ahmedabad"
+2020,Hyundai,Tiago XT,T,72908,Petrol,Manual,6090,6.9700273224043725,3.45,"Karnavati Club, Ahmedabad"
+2023,Hyundai,Tiago XT,T,29438,Petrol,Manual,7605,4.67,4.31,"Karnavati Club, Ahmedabad"
+2023,Hyundai,Harrier XM,T,45493,Diesel,Manual,13933,2.0,8.14,"Karnavati Club, Ahmedabad"
+2017,Hyundai,Tiago XZ,T,90426,Petrol,Manual,5802,3.13,2.97,"Karnavati Club, Ahmedabad"
+2022,Hyundai,ALTROZ XT,T,79349,CNG,Manual,9197,6.9700273224043725,5.21,"Karnavati Club, Ahmedabad"
+2017,Hyundai,Tiago XT,T,99653,Petrol,Manual,5711,3.34,2.92,"Naroda, Ahmedabad"
+2024,Hyundai,Tiago XZA,T,14540,Petrol,Auto,9882,6.28,5.6,"Karnavati Club, Ahmedabad"
+2017,Hyundai,Tiago XT,T,87134,Petrol,Manual,5376,6.9700273224043725,2.75,"Karnavati Club, Ahmedabad"
+2018,Hyundai,Tiago XT,T,85465,Petrol,Manual,5105,6.9700273224043725,2.89,"Naroda, Ahmedabad"
+2023,Hyundai,PUNCH ADVENTURE,T,83167,Petrol,Manual,7725,4.73,4.38,"Karnavati Club, Ahmedabad"
+2020,Tata,Tiago XZA,T,67446,Petrol,Auto,6065,4.36,3.44,"Naroda, Ahmedabad"
+2022,Tata,PUNCH PURE,T,32453,Petrol,Manual,7942,4.78,4.5,"Naroda, Ahmedabad"
+2019,Tata,Tiago XZA,T,114495,Petrol,Auto,6775,3.85,3.05,"Karnavati Club, Ahmedabad"
+2022,Tata,NEXON XZA,T,54232,CNG,Auto,11238,7.36,6.37,"Naroda, Ahmedabad"
+2023,Tata,NEXON XZ,T,34354,Petrol,Manual,13480,7.7038383838383835,7.64,"Karnavati Club, Ahmedabad"
+2021,Tata,Harrier XMA,T,72640,Diesel,Auto,14563,2.0,8.51,"Naroda, Ahmedabad"
+2022,Tata,NEXON XZ,T,80184,Petrol,Manual,12147,8.61,6.88,"Naroda, Ahmedabad"
+2022,Tata,PUNCH PURE,T,73696,Petrol,Manual,6885,4.11,3.9,"Naroda, Ahmedabad"
+2025,Tata,ALTROZ XMA,T,7665,Petrol,Manual,13326,8.51,7.55,"Naroda, Ahmedabad"
+2023,Tata,PUNCH ADVENTURE,T,56663,Petrol,Manual,9066,7.7038383838383835,5.14,"Naroda, Ahmedabad"
+2020,Tata,NEXON XZ,T,137630,Diesel,Auto,49755,7.7038383838383835,5.6,User Not Defined
+2020,Tata,NEXON XZ,T,122276,Petrol,Auto,27772,5.5,5.0,User Not Defined
+2020,Tata,NEXON XZ,T,144637,Diesel,Auto,60590,7.7038383838383835,13.0,User Not Defined
+2024,Tata,NEXON XZ,T,44026,Petrol,Manual,13681,7.7038383838383835,7.75,"Naroda, Ahmedabad"
+2024,Tata,NEXON XZ,T,109998,Diesel,Manual,17075,9.59,7.68,"Naroda, Ahmedabad"
+2020,Tata,NEXON XZ,T,71064,Petrol,Manual,10592,7.7038383838383835,6.0,"Karnavati Club, Ahmedabad"
+2023,Tata,NEXON XZ,T,68438,Diesel,Auto,13866,9.01,8.1,"Naroda, Ahmedabad"
+2021,Tata,NEXON XZ,T,43253,Petrol,Auto,13494,8.6,7.64,"Karnavati Club, Ahmedabad"
+2022,Tata,NEXON XZ,T,220259,Petrol,Manual,12089,7.7038383838383835,6.85,"Karnavati Club, Ahmedabad"
+2021,Tata,NEXON XZ,T,82626,Petrol,Auto,11698,6.9,6.63,"Karnavati Club, Ahmedabad"
+2023,Hyundai,HECTOR SHARP,T,30059,Petrol,Manual,16313,11.03,9.53,"Karnavati Club, Ahmedabad"
+2020,Hyundai,HECTOR SHARP,T,261916,Petrol,Manual,8981,6.69,5.09,"Naroda, Ahmedabad"
+2020,Hyundai,HECTOR SHARP,T,62057,Diesel,Auto,13065,8.35,7.4,"Karnavati Club, Ahmedabad"
+2022,Hyundai,HECTOR SHARP,T,96499,Petrol,Manual,13681,8.15,7.75,"Karnavati Club, Ahmedabad"
+2023,Hyundai,HECTOR SHARP,T,50015,Diesel,Manual,16694,6.9700273224043725,9.75,"Karnavati Club, Ahmedabad"
+2022,Hyundai,HECTOR SHARP,T,549640,Diesel,Manual,14138,9.95,8.26,"Naroda, Ahmedabad"
+2023,Hyundai,HECTOR SHARP,T,25495,Petrol,Auto,15060,6.9700273224043725,8.8,"Karnavati Club, Ahmedabad"
+2021,Hyundai,HECTOR SHARP,T,47027,Petrol,Auto,13899,8.28,7.87,"Karnavati Club, Ahmedabad"
+2020,Hyundai,HECTOR SHARP,T,128425,Petrol,Auto,16552,9.14,7.44,"Naroda, Ahmedabad"
+2020,Hyundai,HECTOR SHARP,T,91997,Petrol,Auto,12475,6.9700273224043725,7.07,"Karnavati Club, Ahmedabad"
+2020,Hyundai,HECTOR SHARP,T,62442,Petrol,Auto,17653,6.9700273224043725,10.31,"Naroda, Ahmedabad"
+2020,Hyundai,HECTOR SHARP,T,48955,Petrol,Auto,17859,10.61,10.43,"Karnavati Club, Ahmedabad"
+2022,Hyundai,HECTOR SHARP,T,84392,Petrol,Manual,17283,10.5,10.09,"Naroda, Ahmedabad"
+2020,Hyundai,HECTOR SHARP,T,111247,Diesel,Manual,19701,6.9700273224043725,9.06,"Naroda, Ahmedabad"
+2021,Hyundai,HECTOR PLUS,T,46498,Petrol,Auto,20170,6.9700273224043725,11.78,"Naroda, Ahmedabad"
+2020,Hyundai,HECTOR SHARP,T,47682,Petrol,Auto,12233,7.51,6.93,"Naroda, Ahmedabad"
+2024,Hyundai,ASTOR Sprint,T,5466,Petrol,Manual,13857,6.9700273224043725,7.85,"Karnavati Club, Ahmedabad"
+2020,Hyundai,HECTOR PLUS,T,42072,Petrol,Auto,14345,9.2,8.38,"Karnavati Club, Ahmedabad"
+2022,Hyundai,HECTOR PLUS,T,73561,Petrol,Auto,15640,12.47,9.13,"Karnavati Club, Ahmedabad"
+2023,Hyundai,HECTOR PLUS,T,75441,Diesel,Manual,23543,15.3,13.75,"Naroda, Ahmedabad"
+2021,Hyundai,HECTOR PLUS,T,92230,Diesel,Manual,14562,8.85,8.5,"Karnavati Club, Ahmedabad"
+2021,Hyundai,HECTOR PLUS,T,77593,Diesel,Manual,16972,10.62,9.91,"Naroda, Ahmedabad"
+2020,Hyundai,HECTOR PLUS,T,112132,Petrol,Auto,18675,6.9700273224043725,8.59,"Naroda, Ahmedabad"
+2020,MG,HECTOR PLUS,T,28230,Petrol,Auto,14823,10.38,8.66,"Karnavati Club, Ahmedabad"
+2022,MG,ASTOR SHARP,T,47678,Petrol,Auto,13952,8.31,7.9,"Naroda, Ahmedabad"
+2022,MG,ASTOR SAVVY,T,60958,Petrol,Auto,13284,10.33,7.52,"Naroda, Ahmedabad"
+2022,MG,ASTOR SHARP,T,74892,Petrol,Auto,12001,9.05,6.8,"Naroda, Ahmedabad"
+2021,MG,HECTOR SUPER,T,50716,Diesel,Manual,14090,10.19,7.98,"Naroda, Ahmedabad"
+2022,MG,ASTOR SHARP,T,39753,Petrol,Auto,13515,8.82,7.66,"Karnavati Club, Ahmedabad"
+2022,MG,ASTOR SHARP,T,32854,Petrol,Auto,14152,8.78,8.27,"Naroda, Ahmedabad"
+2021,MG,HECTOR SHARP,T,63146,Petrol,Auto,18393,11.25,10.74,"Naroda, Ahmedabad"
+2021,MG,HECTOR SHARP,T,31836,Diesel,Manual,17828,11.25,10.41,"Naroda, Ahmedabad"
+2020,MG,HECTOR SHARP,T,67556,Petrol,Auto,13741,7.270084745762712,8.03,"Naroda, Ahmedabad"
+2024,MG,HECTOR SHARP,T,32819,Petrol,Manual,13698,1.0,8.0,"Naroda, Ahmedabad"
+2022,MG,HECTOR SHARP,T,40157,Petrol,Auto,16646,1.0,9.72,"Karnavati Club, Ahmedabad"
+2022,MG,HECTOR SHARP,T,69082,Petrol,Auto,14025,1.0,7.95,"Naroda, Ahmedabad"
+2023,MG,HECTOR SHARP,T,76347,Petrol,Auto,15319,1.0,8.95,"Karnavati Club, Ahmedabad"
+2023,MG,HECTOR SHARP,T,89819,Petrol,Auto,15018,1.0,8.77,"Karnavati Club, Ahmedabad"
+2022,MG,HECTOR SHARP,T,52001,Petrol,Manual,12382,1.0,7.01,"Karnavati Club, Ahmedabad"
+2022,MG,HECTOR SHARP,T,62833,Petrol,Auto,12068,1.0,6.84,"Karnavati Club, Ahmedabad"
+2023,MG,HECTOR SHARP,T,44672,Petrol,Manual,14143,1.0,8.26,"Karnavati Club, Ahmedabad"
+2023,MG,HECTOR SHARP,T,47958,Petrol,Auto,16821,1.0,9.82,"Naroda, Ahmedabad"
+2022,MG,HECTOR SHARP,T,24333,Petrol,Auto,15295,1.0,8.93,"Naroda, Ahmedabad"
+2020,Hyundai,HECTOR SHARP,T,119399,Diesel,Manual,17770,6.9700273224043725,2.0,User Not Defined
+2020,Hyundai,HECTOR SHARP,T,63756,Petrol,Manual,17859,6.9700273224043725,0.95,User Not Defined
+2020,Hyundai,HECTOR SHARP,T,181191,Diesel,Auto,17859,6.9700273224043725,2.34,User Not Defined
+2020,Hyundai,HECTOR SHARP,T,65123,Petrol,Auto,13324,6.9700273224043725,5.99,User Not Defined
+2020,Hyundai,HECTOR SHARP,T,40610,Petrol,Manual,13045,1.0,7.39,User Not Defined
+2020,Hyundai,HECTOR SHARP,T,91367,Petrol,Manual,13949,6.9700273224043725,1.57,User Not Defined
+2020,Hyundai,HECTOR SHARP,T,68571,Petrol,Manual,23012,6.9700273224043725,2.59,User Not Defined
+2020,Hyundai,HECTOR SHARP,T,124884,Diesel,Manual,22212,3.4,2.5,User Not Defined
+2020,Hyundai,HECTOR SHARP,T,88467,Petrol,Auto,15753,1.5,9.2,User Not Defined
+2020,Hyundai,HECTOR SHARP,T,98033,Petrol,Manual,12057,1.0,6.83,User Not Defined
+2017,Hyundai,Swift VXI,VXI,80410,Petrol,Manual,7371,6.9700273224043725,3.77,"Mansarovar, Jaipur"
+2020,Hyundai,Baleno DELTA,T,2114260,Petrol,Manual,8437,4.44,3.79,"Mansarovar, Jaipur"
+2017,Hyundai,Wagon R,VXI,56051,Petrol,Manual,5750,3.0,2.94,"Mansarovar, Jaipur"
+2021,Hyundai,Baleno ZETA,ZETA,259655,Petrol,Manual,8291,5.05,4.7,"Mansarovar, Jaipur"
+2018,Hyundai,Ciaz ALPHA,T,140176,Petrol,Auto,11523,5.31,5.18,"Mansarovar, Jaipur"
+2013,Hyundai,Swift VXI,VXI,70230,Petrol,Manual,11298,2.8,2.4,"Mansarovar, Jaipur"
+2020,Hyundai,Baleno DELTA,T,290486,Petrol,Manual,7698,4.5,4.36,"Mansarovar, Jaipur"
+2019,Hyundai,Baleno DELTA,T,245432,Petrol,Manual,8473,6.9700273224043725,4.8,"Mansarovar, Jaipur"
+2019,Hyundai,Alto K,VXI,15404,Petrol,Manual,5119,6.9700273224043725,2.9,"Mansarovar, Jaipur"
+2015,Hyundai,Wagon R,VXI,99601,Petrol,Manual,5866,2.36,2.23,"Mansarovar, Jaipur"
+2019,Maruti,Swift VXI,VXI,64571,Petrol,Auto,8302,4.74,4.7,"Mansarovar, Jaipur"
+2016,Maruti,Wagon R,VXI,145459,Petrol,Manual,4011,2.5,1.8,"Mansarovar, Jaipur"
+2019,Maruti,Baleno ZETA,ZETA,271622,CNG,Manual,10068,5.43,5.15,"Mansarovar, Jaipur"
+2020,Maruti,Celerio ZXI,ZXI,111974,Petrol,Manual,6300,3.5,2.83,"Mansarovar, Jaipur"
+2023,Maruti,Baleno DELTA,T,224586,Petrol,Manual,10398,6.19,5.89,"Mansarovar, Jaipur"
+2025,Maruti,Dzire ZXi,not defined,37146,CNG,Manual,13873,8.4,7.86,"Mansarovar, Jaipur"
+2019,Maruti,New Wagon,VXI,276392,Petrol,Manual,6090,3.5,3.45,"Mansarovar, Jaipur"
+2018,Maruti,IGNIS ZETA,ZETA,2102773,Petrol,Manual,6335,3.15,2.85,"Mansarovar, Jaipur"
+2022,Maruti,New Wagon,VXI,44984,Petrol,Manual,7326,4.90144,4.15,"Mansarovar, Jaipur"
+2016,Maruti,Wagon R,VXI,65601,CNG,Manual,9120,3.23,2.75,"Mansarovar, Jaipur"
+2017,Maruti,Eon MAGNA,not defined,35189,Petrol,Manual,3871,2.25,1.98,"Mansarovar, Jaipur"
+2017,Maruti,Eon MAGNA,not defined,106413,Petrol,Manual,4004,4.90144,1.8,"Mansarovar, Jaipur"
+2020,Maruti,Elite i,T,277706,Petrol,Manual,6793,4.86,3.85,"Mansarovar, Jaipur"
+2014,Maruti,Grand i,T,85186,Petrol,Manual,9189,4.90144,2.77,"Mansarovar, Jaipur"
+2017,Maruti,Elite i,T,272667,Petrol,Manual,7321,4.33,3.74,"Mansarovar, Jaipur"
+2019,Maruti,Creta E,T,98563,Petrol,Manual,10897,6.43,6.17,"Mansarovar, Jaipur"
+2019,Maruti,Creta SX,SX,30749,Petrol,Manual,12977,7.72,7.35,"Mansarovar, Jaipur"
+2016,Maruti,Grand i,T,28593,Petrol,Manual,6451,4.90144,2.9,"Mansarovar, Jaipur"
+2019,Maruti,Grand i,T,67838,Petrol,Manual,6098,4.09,3.45,"Mansarovar, Jaipur"
+2014,Maruti,Eon MAGNA,not defined,93524,Petrol,Manual,5314,4.90144,1.6,"Mansarovar, Jaipur"
+2017,Hyundai,Elite i,T,58866,Petrol,Manual,7877,4.7,4.03,"Mansarovar, Jaipur"
+2018,Hyundai,Creta SX,SX,123618,Petrol,Manual,11111,7.31,5.0,"Mansarovar, Jaipur"
+2019,Hyundai,Grand i,T,70289,Petrol,Manual,6355,6.9700273224043725,3.6,"Mansarovar, Jaipur"
+2014,Hyundai,Eon ERA,not defined,45086,Petrol,Manual,4451,1.65,1.34,"Mansarovar, Jaipur"
+2020,Hyundai,Elite i,T,56669,Petrol,Manual,8706,5.05,4.93,"Mansarovar, Jaipur"
+2019,Hyundai,Elite i,T,248834,Petrol,Manual,7319,5.03,4.15,"Mansarovar, Jaipur"
+2016,Hyundai,Creta SX,SX,102544,Petrol,Manual,12034,6.78,5.41,"Mansarovar, Jaipur"
+2014,Hyundai,Grand i,T,71934,Petrol,Auto,7460,3.12,2.25,"Mansarovar, Jaipur"
+2014,Hyundai,HECTOR SHARP,T,196350,Petrol,Manual,4444,1.9,1.34,"Mansarovar, Jaipur"
+2019,Hyundai,GRAND I,T,63485,Petrol,Manual,7061,6.9700273224043725,4.0,"Mansarovar, Jaipur"
+2017,Hyundai,Hexa XT,T,102883,Diesel,Manual,12363,6.6,5.56,"Mansarovar, Jaipur"
+2018,Hyundai,NEXON XZA,T,59615,Petrol,Auto,7020,4.61,3.98,"Mansarovar, Jaipur"
+2021,Hyundai,ALTROZ XE,T,79557,Petrol,Manual,6713,4.16,3.8,"Mansarovar, Jaipur"
+2024,Hyundai,NEXON Creative,T,19649,Petrol,Manual,13647,9.05,7.73,"Mansarovar, Jaipur"
+2020,Hyundai,Tiago XZ,T,92883,Petrol,Manual,6355,6.9700273224043725,3.6,"Mansarovar, Jaipur"
+2021,Hyundai,NEXON XZ,T,107792,Petrol,Manual,12566,6.0,5.65,"Mansarovar, Jaipur"
+2015,Hyundai,Nano TWIST,T,76059,Petrol,Manual,2633,6.9700273224043725,1.0,"Mansarovar, Jaipur"
+2022,Hyundai,NEXON XM,T,18670,Diesel,Manual,12975,6.9700273224043725,7.35,"Mansarovar, Jaipur"
+2020,Hyundai,ALTROZ XT,T,123702,Petrol,Manual,7639,3.7,3.43,"Mansarovar, Jaipur"
+2022,Hyundai,ALTROZ XZ,T,112165,Petrol,Manual,9641,5.15,4.33,"Mansarovar, Jaipur"
+2024,Tata,NEXON Creative,T,12253,Petrol,Auto,15405,10.89,9.0,"Mansarovar, Jaipur"
+2022,Tata,ALTROZ XE,T,72928,Petrol,Manual,7767,7.7038383838383835,4.4,"Mansarovar, Jaipur"
+2013,Tata,Safari Storme,T,2106570,Diesel,Manual,21768,2.82,2.45,"Mansarovar, Jaipur"
+2024,Tata,Curvv Creative,T,32433,Petrol,Manual,18187,11.02,10.62,"Mansarovar, Jaipur"
+2023,Tata,Harrier XZA,T,14786,Diesel,Auto,30820,2.0,18.0,"Mansarovar, Jaipur"
+2024,Tata,NEXON CREATIVE,T,64944,Petrol,Auto,14492,9.48,8.46,"Mansarovar, Jaipur"
+2024,Tata,NEXON FEARLESS,T,26543,Petrol,Auto,14999,11.84,8.76,"Mansarovar, Jaipur"
+2025,Tata,Curvv Pure,T,19533,Petrol,Auto,18663,12.06,10.9,"Mansarovar, Jaipur"
+2016,Tata,Hexa XT,T,119660,Diesel,Manual,12772,7.7038383838383835,4.85,"Mansarovar, Jaipur"
+2020,Tata,ALTROZ XZ,T,52861,Petrol,Manual,9003,7.7038383838383835,5.1,"Mansarovar, Jaipur"
+2020,Tata,NEXON XZ,T,93813,Diesel,Auto,27772,4.5,4.45,User Not Defined
+2020,Tata,NEXON XZ,T,88333,Diesel,Auto,27772,7.7038383838383835,6.3,User Not Defined
+2020,Tata,NEXON XZ,T,135179,Diesel,Auto,35305,7.7038383838383835,7.5,User Not Defined
+2020,Tata,NEXON XZ,T,70789,Diesel,Auto,30598,7.7038383838383835,6.5,User Not Defined
+2020,Tata,NEXON XZ,T,125308,Diesel,Auto,27772,7.7038383838383835,4.65,User Not Defined
+2020,Tata,NEXON XZ,T,77800,Diesel,Auto,27772,7.7038383838383835,6.53,User Not Defined
+2020,Tata,NEXON XZ,T,131232,Diesel,Auto,39617,9.0,8.5,User Not Defined
+2020,Tata,NEXON XZ,T,213423,Diesel,Auto,62339,7.25,7.02,User Not Defined
+2020,Tata,NEXON XZ,T,558969,Petrol,Manual,12450,7.94,7.05,"Mansarovar, Jaipur"
+2019,Tata,NEXON XZ,T,82385,Petrol,Manual,13571,10.95,7.69,"Mansarovar, Jaipur"
+2020,Hyundai,HECTOR SHARP,T,261059,Petrol,Manual,12710,6.9700273224043725,7.2,User Not Defined
+2020,Hyundai,HECTOR SHARP,T,135624,Diesel,Manual,19568,10.0,9.0,User Not Defined
+2020,Hyundai,HECTOR SHARP,T,68128,Petrol,Manual,12357,7.1,7.0,User Not Defined
+2020,Hyundai,HECTOR SHARP,T,98730,Diesel,Manual,12074,6.9700273224043725,6.84,User Not Defined
+2020,Hyundai,HECTOR SHARP,T,21522,Petrol,Manual,12745,6.9700273224043725,7.22,User Not Defined
+2020,Hyundai,HECTOR SHARP,T,216209,Petrol,Manual,11916,7.5,6.75,User Not Defined
+2020,Hyundai,HECTOR SHARP,T,3285,Petrol,Manual,17294,1.5,10.1,User Not Defined
+2020,Hyundai,HECTOR SHARP,T,9500,Petrol,Manual,13857,8.0,7.85,User Not Defined
+2020,Hyundai,HECTOR SHARP,T,118486,Petrol,Manual,14014,6.45,6.3,User Not Defined
+2020,Hyundai,HECTOR SHARP,T,38763,Petrol,Auto,15680,6.9700273224043725,9.16,User Not Defined
+2020,Hyundai,HECTOR SHARP,T,594529,Diesel,Manual,14554,8.9,8.5,User Not Defined
+2020,Hyundai,HECTOR SHARP,T,228484,Petrol,Manual,12798,7.5,7.25,User Not Defined
+2020,Hyundai,HECTOR SHARP,T,39779,Petrol,Auto,19451,6.9700273224043725,11.36,User Not Defined
+2020,Hyundai,HECTOR SHARP,T,514497,Petrol,Manual,20718,6.9700273224043725,12.1,User Not Defined
+2020,Hyundai,HECTOR SHARP,T,55997,Petrol,Auto,17037,10.5,9.95,User Not Defined
+2020,Hyundai,HECTOR SHARP,T,114060,Diesel,Manual,20955,6.9700273224043725,9.64,User Not Defined
+2020,Hyundai,HECTOR SHARP,T,29700,Diesel,Manual,17465,6.9700273224043725,10.2,User Not Defined
+2020,Hyundai,HECTOR SHARP,T,57916,Petrol,Manual,14212,8.5,8.3,User Not Defined
+2022,Hyundai,ASTOR SHARP,T,78218,CNG,Manual,13289,9.89,7.53,"Mansarovar, Jaipur"
+2021,Hyundai,HECTOR SHARP,T,54681,Petrol,Auto,16438,9.64,9.6,"Mansarovar, Jaipur"
+2019,Hyundai,HECTOR SHARP,T,26739,Petrol,Auto,14897,10.27,8.7,"Mansarovar, Jaipur"
+2020,Hyundai,HECTOR SHARP,T,78808,Petrol,Auto,15410,9.94,9.0,"Mansarovar, Jaipur"
+2020,Hyundai,HECTOR SMART,T,83974,Petrol,Auto,18492,6.9700273224043725,10.8,User Not Defined
+2020,Hyundai,HECTOR SHARP,T,32808,Petrol,Auto,23971,14.5,14.0,User Not Defined
+2020,Hyundai,Windsor EV,not defined,25605,Electric,Auto,25221,6.9700273224043725,14.73,User Not Defined
+2020,Hyundai,HECTOR SHARP,T,47813,Petrol,Auto,20376,6.9700273224043725,11.9,User Not Defined
+2020,Hyundai,HECTOR SHARP,T,126447,Petrol,Auto,22612,6.9700273224043725,10.4,User Not Defined
+2020,Hyundai,HECTOR SHARP,T,90315,Petrol,Manual,18835,6.9700273224043725,11.0,User Not Defined
+2020,MG,ZS EV,not defined,51115,Electric,Auto,26540,15.75,15.5,User Not Defined
+2018,MG,HECTOR SHARP,T,86785,Petrol,Auto,19667,11.92,11.49,"Mansarovar, Jaipur"
+2020,MG,HECTOR SHARP,T,166796,Diesel,Manual,7473,2.45,2.25,User Not Defined
+2020,MG,HECTOR SHARP,T,71602,Diesel,Auto,23537,5.5,5.0,User Not Defined
+2020,MG,HECTOR SHARP,T,90283,Petrol,Manual,13698,1.0,8.0,User Not Defined
+2020,MG,HECTOR SHARP,T,63610,Petrol,Auto,14982,1.0,8.75,User Not Defined
+2020,MG,HECTOR SHARP,T,65979,Petrol,Auto,16266,1.0,9.5,User Not Defined
+2020,MG,HECTOR SHARP,T,53065,Petrol,Manual,17465,1.0,10.2,User Not Defined
+2020,MG,HECTOR SHARP,T,88544,Petrol,Auto,22841,7.270084745762712,12.0,User Not Defined
+2019,MG,Ertiga ZXI,ZXI,23139,Petrol,Manual,13624,7.94,7.72,"Regency Anantam, Dombivli East"
+2021,MG,Ertiga ZXI,ZXI,60342,Petrol,Manual,13667,7.9,7.74,Near Belapur Dmart
+2014,Hyundai,Wagon R,VXI,22944,Petrol,Manual,7506,6.9700273224043725,2.26,Near Belapur Dmart
+2014,Hyundai,Wagon R,LXI,77391,CNG,Manual,17236,2.25,1.94,"Goregaon, Mumbai"
+2022,Hyundai,Ertiga ZXI,ZXI,118292,Petrol,Auto,16276,10.81,7.32,Thakur Village Kandivali E Mumbai
+2017,Hyundai,Swift VXI,VXI,57688,Petrol,Manual,6843,6.9700273224043725,3.5,Near Belapur Dmart
+2015,Hyundai,Ertiga VXI,VXI,39595,Petrol,Manual,12431,6.9700273224043725,4.72,"Regency Anantam, Dombivli East"
+2014,Hyundai,Wagon R,LXI,106655,CNG,Manual,19547,6.9700273224043725,2.2,Near Belapur Dmart
+2019,Hyundai,Celerio VXI,VXI,69614,CNG,Manual,6401,3.85,3.27,Near Belapur Dmart
+2015,Hyundai,Wagon R,LXI,78882,CNG,Manual,10998,2.35,2.34,Thakur Village Kandivali E Mumbai
+2017,Maruti,Baleno RS,T,56353,Petrol,Manual,7266,4.01,3.72,"Goregaon, Mumbai"
+2016,Maruti,Swift LXI,LXI,52031,Petrol,Manual,6380,3.17,2.87,"Goregaon, Mumbai"
+2019,Maruti,Ertiga ZXI,ZXI,108314,Petrol,Auto,14539,7.45,6.54,"Goregaon, Mumbai"
+2018,Maruti,Baleno DELTA,T,239790,Petrol,Manual,6800,4.90144,3.85,Near Belapur Dmart
+2014,Maruti,Swift ZXI,ZXI,75340,Petrol,Manual,10209,4.90144,3.07,"Goregaon, Mumbai"
+2017,Maruti,Ertiga ZXI,ZXI,116094,Petrol,Manual,11494,5.6,5.17,Thakur Village Kandivali E Mumbai
+2021,Maruti,Swift ZXI,ZXI,25609,Petrol,Manual,10592,4.90144,6.0,Thakur Village Kandivali E Mumbai
+2016,Maruti,Wagon R,LXI,63749,CNG,Manual,7208,2.35,2.17,Thakur Village Kandivali E Mumbai
+2016,Maruti,Wagon R,LXI,14800,Petrol,Manual,5270,2.42,2.37,Near Belapur Dmart
+2017,Maruti,Baleno DELTA,T,211515,Petrol,Manual,8700,4.90144,4.45,"Goregaon, Mumbai"
+2017,Maruti,Grand i,T,32062,Petrol,Manual,6137,3.32,3.14,"Goregaon, Mumbai"
+2019,Maruti,Creta SX,SX,49085,Petrol,Manual,11293,7.37,6.4,"Goregaon, Mumbai"
+2016,Maruti,Creta SX,SX,53363,Petrol,Manual,12734,4.90144,5.72,Thakur Village Kandivali E Mumbai
+2018,Maruti,Grand i,T,46536,Petrol,Manual,6540,3.78,3.71,"Goregaon, Mumbai"
+2015,Maruti,Elite i,T,25539,Petrol,Manual,9484,4.90144,3.6,"Goregaon, Mumbai"
+2019,Maruti,Grand i,T,31898,Petrol,Manual,6189,3.65,3.51,"Korum Mall, Thane West"
+2014,Maruti,Grand i,T,56651,Petrol,Auto,9255,2.86,2.79,"Korum Mall, Thane West"
+2016,Maruti,Creta SX,SX,38993,Petrol,Manual,12168,4.90144,5.47,Thakur Village Kandivali E Mumbai
+2017,Maruti,Grand i,T,33231,Petrol,Manual,6100,3.3,3.12,Near Belapur Dmart
+2017,Maruti,Creta SX,SX,67298,Petrol,Auto,11144,4.90144,5.7,"Korum Mall, Thane West"
+2021,Hyundai,VENUE SX,SX,28519,Petrol,Auto,12915,8.2,7.32,"Korum Mall, Thane West"
+2016,Hyundai,Grand i,T,27590,Petrol,Manual,6191,3.15,2.78,Thakur Village Kandivali E Mumbai
+2023,Hyundai,AURA S,T,52905,CNG,Manual,10409,6.08,5.9,"Korum Mall, Thane West"
+2015,Hyundai,Grand i,T,45030,Petrol,Auto,8474,3.4,3.22,Thakur Village Kandivali E Mumbai
+2015,Hyundai,Eon MAGNA,not defined,56581,Petrol,Manual,5003,2.1,1.9,"Goregaon, Mumbai"
+2014,Hyundai,Grand i,T,55312,Petrol,Manual,6809,2.35,2.05,"Regency Anantam, Dombivli East"
+2022,Hyundai,Creta E,T,41851,Diesel,Manual,14725,6.9700273224043725,8.6,"Goregaon, Mumbai"
+2016,Hyundai,Grand i,T,35031,Petrol,Manual,7252,6.9700273224043725,3.26,"Regency Anantam, Dombivli East"
+2021,Hyundai,VENUE SX,SX,131640,Diesel,Manual,16216,7.59,7.29,"Regency Anantam, Dombivli East"
+2015,Hyundai,Grand i,T,80104,Petrol,Manual,5828,2.67,2.21,Near Belapur Dmart
+2017,Hyundai,Tiago XZ,T,30574,Petrol,Manual,5826,3.32,2.98,"Regency Anantam, Dombivli East"
+2022,Hyundai,Tiago XZ,T,32379,Petrol,Manual,7979,6.9700273224043725,4.52,Near Belapur Dmart
+2017,Hyundai,Tiago XZ,T,61767,Petrol,Manual,5918,3.2,3.03,"Regency Anantam, Dombivli East"
+2016,Hyundai,Tiago XZ,T,39439,Petrol,Manual,6552,6.9700273224043725,2.95,"Regency Anantam, Dombivli East"
+2018,Hyundai,Tiago XTA,T,42005,Petrol,Auto,5124,3.09,2.9,"Regency Anantam, Dombivli East"
+2019,Hyundai,Tiago XZA,T,29717,Petrol,Auto,6355,6.9700273224043725,3.6,"Goregaon, Mumbai"
+2022,Hyundai,Tiago XZ,T,28540,Petrol,Manual,7168,4.68,4.06,"Korum Mall, Thane West"
+2022,Hyundai,Tiago XZ,T,21445,CNG,Manual,8955,5.28,5.07,"Korum Mall, Thane West"
+2023,Hyundai,Tiago XZ,T,11972,CNG,Manual,9142,5.67,5.18,Near Belapur Dmart
+2024,Hyundai,Tiago XZA,T,45169,CNG,Auto,11467,6.83,6.5,"Korum Mall, Thane West"
+2015,Tata,Zest XT,T,120459,Petrol,Manual,6851,7.7038383838383835,2.6,Near Belapur Dmart
+2019,Tata,NEXON XZA,T,34173,Petrol,Auto,9705,7.7038383838383835,5.5,"Goregaon, Mumbai"
+2023,Tata,NEXON XZ,T,33834,Petrol,Manual,15773,7.7038383838383835,9.21,Thakur Village Kandivali E Mumbai
+2022,Tata,NEXON XZA,T,23976,Petrol,Auto,13741,7.7038383838383835,8.03,Thakur Village Kandivali E Mumbai
+2023,Tata,NEXON XZA,T,32350,Petrol,Auto,17272,7.7038383838383835,10.09,Near Belapur Dmart
+2023,Tata,Harrier XT,T,85806,Diesel,Manual,19924,2.0,11.64,"Regency Anantam, Dombivli East"
+2024,Tata,Harrier PURE,T,35041,Diesel,Manual,23013,14.17,13.44,"Korum Mall, Thane West"
+2021,Tata,Harrier XZA,T,81743,Diesel,Auto,21173,2.0,12.37,Near Belapur Dmart
+2020,Tata,ALTROZ XZ,T,47865,Petrol,Manual,8103,4.64,4.59,"Goregaon, Mumbai"
+2026,Tata,PUNCH Accomplished,T,2926,Petrol,Auto,14640,8.89,8.55,"Korum Mall, Thane West"
+2019,Tata,NEXON XZ,T,77627,Diesel,Auto,47087,34.08,27.5,"Korum Mall, Thane West"
+2020,Tata,NEXON XZ,T,46257,Diesel,Auto,27772,7.7038383838383835,4.02,User Not Defined
+2020,Tata,NEXON XZ,T,120699,Diesel,Auto,27772,5.25,4.9,User Not Defined
+2020,Tata,NEXON XZ,T,73728,Diesel,Auto,27772,5.0,4.5,User Not Defined
+2020,Tata,NEXON XZ,T,133950,Diesel,Auto,55324,7.7038383838383835,11.87,User Not Defined
+2020,Tata,NEXON XZ,T,75404,Diesel,Auto,52121,7.7038383838383835,11.18,User Not Defined
+2020,Tata,NEXON XZ,T,122536,Diesel,Auto,76892,7.7038383838383835,8.7,User Not Defined
+2020,Tata,NEXON XZ,T,95657,Diesel,Auto,66637,7.8,7.5,User Not Defined
+2020,Tata,NEXON XZ,T,103348,Diesel,Auto,27772,7.7038383838383835,6.2,User Not Defined
+2020,Tata,NEXON XZ,T,79598,Diesel,Auto,46608,7.7038383838383835,10.0,User Not Defined
+2020,Hyundai,HECTOR SHARP,T,87041,Diesel,Manual,74106,6.9700273224043725,15.9,User Not Defined
+2020,Hyundai,HECTOR SHARP,T,108209,Diesel,Auto,17859,6.9700273224043725,6.5,User Not Defined
+2020,Hyundai,HECTOR SHARP,T,185468,Diesel,Auto,37763,6.9700273224043725,8.1,User Not Defined
+2020,Hyundai,HECTOR SHARP,T,84031,Diesel,Auto,108709,12.6,12.3,User Not Defined
+2021,Hyundai,HECTOR SHARP,T,53945,Petrol,Manual,10903,6.9700273224043725,6.18,Thakur Village Kandivali E Mumbai
+2021,Hyundai,HECTOR SHARP,T,40292,Petrol,Manual,10586,6.92,6.0,Near Belapur Dmart
+2020,Hyundai,HECTOR SHARP,T,141405,Diesel,Auto,17722,9.45,8.15,Near Belapur Dmart
+2023,Hyundai,HECTOR SHARP,T,14230,Petrol,Auto,13822,8.84,8.07,Near Belapur Dmart
+2023,Hyundai,HECTOR SHARP,T,54892,Diesel,Manual,13993,6.9700273224043725,8.17,"Korum Mall, Thane West"
+2021,Hyundai,HECTOR SHARP,T,62737,Petrol,Manual,9960,7.15,5.64,"Regency Anantam, Dombivli East"
+2021,Hyundai,HECTOR SHARP,T,87291,Petrol,Manual,13128,8.06,7.44,"Goregaon, Mumbai"
+2021,Hyundai,HECTOR SHARP,T,32717,Petrol,Auto,15068,6.9700273224043725,8.8,"Regency Anantam, Dombivli East"
+2022,Hyundai,HECTOR SHARP,T,48951,Petrol,Manual,14383,6.9700273224043725,8.4,"Korum Mall, Thane West"
+2020,Hyundai,HECTOR SHARP,T,65543,Petrol,Auto,15948,9.35,9.31,"Goregaon, Mumbai"
+2022,Hyundai,HECTOR SHARP,T,99079,Petrol,Auto,16085,9.87,9.39,Thakur Village Kandivali E Mumbai
+2023,Hyundai,HECTOR SHARP,T,13096,Petrol,Auto,24179,16.13,14.12,Thakur Village Kandivali E Mumbai
+2023,Hyundai,HECTOR SHARP,T,40101,Petrol,Manual,17701,10.54,10.34,"Goregaon, Mumbai"
+2024,Hyundai,HECTOR SHARP,T,37032,Petrol,Auto,24077,16.37,14.06,Thakur Village Kandivali E Mumbai
+2025,Hyundai,HECTOR SHARP,T,2759,Petrol,Auto,18492,17.07,10.8,"Regency Anantam, Dombivli East"
+2020,Hyundai,HECTOR SHARP,T,545062,Diesel,Manual,15410,9.5,9.0,User Not Defined
+2020,Hyundai,HECTOR SHARP,T,86196,Petrol,Auto,21300,6.9700273224043725,12.44,User Not Defined
+2020,Hyundai,HECTOR SHARP,T,24888,Diesel,Manual,17122,6.9700273224043725,10.0,User Not Defined
+2020,Hyundai,HECTOR SHARP,T,52544,Diesel,Auto,18749,11.05,10.95,User Not Defined
+2020,Hyundai,HECTOR SHARP,T,36835,Petrol,Manual,17979,10.73,10.5,User Not Defined
+2019,Hyundai,HECTOR SHARP,T,36611,Petrol,Auto,16809,6.9700273224043725,9.82,"Goregaon, Mumbai"
+2022,Hyundai,ASTOR SHARP,T,31884,Petrol,Manual,14276,6.9700273224043725,8.34,"Korum Mall, Thane West"
+2021,Hyundai,HECTOR SHARP,T,24793,Petrol,Auto,18068,10.97,10.55,Near Belapur Dmart
+2020,Hyundai,HECTOR SHARP,T,55768,Petrol,Auto,15951,9.7,9.32,Thakur Village Kandivali E Mumbai
+2019,Hyundai,HECTOR SHARP,T,48305,Petrol,Auto,15872,9.65,9.27,"Regency Anantam, Dombivli East"
+2021,Hyundai,HECTOR SHARP,T,89511,Petrol,Auto,14802,9.0,8.64,"Korum Mall, Thane West"
+2022,Hyundai,ASTOR SMART,T,33203,Petrol,Manual,13289,6.9700273224043725,7.53,Near Belapur Dmart
+2024,Hyundai,ASTOR Shine,T,28017,Petrol,Manual,14958,8.91,8.74,Thakur Village Kandivali E Mumbai
+2023,Hyundai,ASTOR SHARP,T,20280,Petrol,Auto,17675,6.9700273224043725,10.32,"Regency Anantam, Dombivli East"
+2022,Hyundai,HECTOR PLUS,T,23413,Petrol,Manual,19573,11.63,11.43,"Regency Anantam, Dombivli East"
+2020,MG,HECTOR PLUS,T,25111,Petrol,Auto,18575,11.56,10.85,"Regency Anantam, Dombivli East"
+2022,MG,HECTOR PLUS,T,53547,Petrol,Auto,19759,7.270084745762712,11.54,Thakur Village Kandivali E Mumbai
+2020,MG,ASTOR SUPER,T,23210,Petrol,Manual,14112,7.270084745762712,8.24,User Not Defined
+2020,MG,HECTOR PLUS,T,100490,Petrol,Auto,17394,12.6,8.0,User Not Defined
+2020,MG,HECTOR SHARP,T,47061,Petrol,Auto,17979,11.5,10.5,User Not Defined
+2020,MG,HECTOR PLUS,T,70502,Diesel,Manual,16266,10.0,9.5,User Not Defined
+2020,MG,HECTOR SHARP,T,50958,Petrol,Auto,14554,9.5,8.5,User Not Defined
+2020,MG,HECTOR PLUS,T,22419,Petrol,Auto,23971,15.16,14.0,User Not Defined
+2020,MG,HECTOR PLUS,T,44257,Diesel,Manual,24828,7.270084745762712,14.5,User Not Defined
+2020,MG,HECTOR PLUS,T,4508,Petrol,Manual,29707,17.83,17.35,User Not Defined
+2022,MG,HECTOR SHARP,T,48424,Petrol,Manual,12795,1.0,7.25,Thakur Village Kandivali E Mumbai
+2022,MG,HECTOR SHARP,T,35345,Petrol,Manual,13675,1.0,7.75,Thakur Village Kandivali E Mumbai
+2021,MG,HECTOR SHARP,T,45058,Petrol,Auto,13329,1.0,7.55,Near Belapur Dmart
+2023,MG,HECTOR SHARP,T,74540,Petrol,Auto,19006,1.5,11.1,"Korum Mall, Thane West"
+2022,MG,HECTOR SHARP,T,84414,Petrol,Manual,12657,1.0,7.17,"Korum Mall, Thane West"
+2022,MG,HECTOR SHARP,T,20494,Petrol,Manual,14290,1.0,8.35,Thakur Village Kandivali E Mumbai
+2021,MG,HECTOR SHARP,T,42465,Petrol,Manual,14282,1.0,8.34,"Goregaon, Mumbai"
+2022,MG,HECTOR SHARP,T,23133,Petrol,Auto,13758,1.0,7.79,"Korum Mall, Thane West"
+2023,MG,HECTOR SHARP,T,41121,Petrol,Auto,15340,1.0,8.96,Thakur Village Kandivali E Mumbai
+2016,MG,HECTOR SHARP,T,35833,Petrol,Auto,10099,7.270084745762712,4.54,"Goregaon, Mumbai"
+2022,Hyundai,HECTOR SHARP,T,23042,Petrol,Manual,16306,1.0,9.52,"Regency Anantam, Dombivli East"
+2020,Hyundai,HECTOR SHARP,T,49000,Petrol,Manual,7900,3.17,3.0,User Not Defined
+2020,Hyundai,HECTOR SHARP,T,91495,Diesel,Manual,17859,6.9700273224043725,2.2,User Not Defined
+2020,Hyundai,HECTOR SHARP,T,74473,Diesel,Manual,17859,6.9700273224043725,1.71,User Not Defined
+2020,Hyundai,HECTOR SHARP,T,39801,Petrol,Manual,8050,6.9700273224043725,3.06,User Not Defined
+2020,Hyundai,HECTOR SHARP,T,73382,Petrol,Auto,4977,6.9700273224043725,1.89,User Not Defined
+2020,Hyundai,HECTOR SHARP,T,59066,Petrol,Manual,15104,6.9700273224043725,1.7,User Not Defined
+2020,Hyundai,HECTOR SHARP,T,101599,Diesel,Manual,17859,6.9700273224043725,1.2,User Not Defined
+2020,Hyundai,HECTOR SHARP,T,113741,Diesel,Manual,17859,6.9700273224043725,2.27,User Not Defined
+2020,Hyundai,HECTOR SHARP,T,49017,Petrol,Auto,8739,6.9700273224043725,4.47,User Not Defined
